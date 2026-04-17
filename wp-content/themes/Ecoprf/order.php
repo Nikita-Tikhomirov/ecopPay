@@ -1029,7 +1029,23 @@
                 input.value = formatRussianPhone(input.value)
             }
 
+            const handleMaskedDelete = (event) => {
+                if (event.key !== 'Backspace' && event.key !== 'Delete') return
+                if (input.selectionStart !== input.selectionEnd) return
+
+                const digits = normalizePhoneDigits(input.value)
+                if (!digits) {
+                    input.value = ''
+                    return
+                }
+
+                event.preventDefault()
+                const nextDigits = digits.length > 1 ? digits.slice(0, -1) : ''
+                input.value = formatRussianPhone(nextDigits)
+            }
+
             input.addEventListener('input', applyMask)
+            input.addEventListener('keydown', handleMaskedDelete)
             input.addEventListener('focus', () => {
                 if (!input.value.trim()) input.value = '+7'
             })
