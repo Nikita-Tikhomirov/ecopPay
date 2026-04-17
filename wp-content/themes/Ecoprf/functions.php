@@ -1008,6 +1008,14 @@ function get_subcategories_callback()
         }
     }
 
+    // For "Рабочие профессии" add extra bucket with courses attached to parent category itself.
+    if ($category_id === 24) {
+        $result[] = [
+            'id' => 24,
+            'name' => 'Другие',
+        ];
+    }
+
     wp_send_json($result);
 }
 
@@ -1018,6 +1026,7 @@ add_action('wp_ajax_nopriv_get_courses', 'get_courses_callback');
 function get_courses_callback()
 {
     $subcategory_id = intval($_GET['subcategory_id']);
+    $only_parent = ($subcategory_id === 24) || (isset($_GET['only_parent']) && $_GET['only_parent'] === '1');
 
     if (!$subcategory_id) {
         wp_send_json([]);
@@ -1042,6 +1051,25 @@ function get_courses_callback()
     if ($query->have_posts()) {
         while ($query->have_posts()) {
             $query->the_post();
+
+            if ($only_parent) {
+                $post_terms = wp_get_post_terms(get_the_ID(), 'category');
+                $has_child_category = false;
+
+                if (!is_wp_error($post_terms)) {
+                    foreach ($post_terms as $post_term) {
+                        if ((int) $post_term->parent === $subcategory_id) {
+                            $has_child_category = true;
+                            break;
+                        }
+                    }
+                }
+
+                if ($has_child_category) {
+                    continue;
+                }
+            }
+
             $result[] = [
                 'id' => get_the_ID(),
                 'name' => get_the_title(),
@@ -1051,6 +1079,9 @@ function get_courses_callback()
         wp_reset_postdata();
     }
 
+    usort($result, static function ($a, $b) {
+        return strcmp(mb_strtolower($a['name']), mb_strtolower($b['name']));
+    });
+
     wp_send_json($result);
 }
-
