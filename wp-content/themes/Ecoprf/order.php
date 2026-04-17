@@ -19,6 +19,41 @@
             <div class="superForm__stepsWrap-step">3</div>
         </div>
 
+        <?php
+        $selected_cart_ids = isset($_COOKIE['cart_courses'])
+            ? array_values(array_filter(array_map('absint', explode(',', $_COOKIE['cart_courses']))))
+            : [];
+        $selected_course_titles = [];
+
+        if (!empty($selected_cart_ids)) {
+            $selected_courses_for_step1 = get_posts([
+                'post_type' => 'post',
+                'post__in' => $selected_cart_ids,
+                'orderby' => 'post__in',
+                'posts_per_page' => -1,
+                'fields' => 'ids',
+            ]);
+
+            foreach ($selected_courses_for_step1 as $selected_course_id) {
+                $selected_course_title = get_the_title($selected_course_id);
+                if (!empty($selected_course_title)) {
+                    $selected_course_titles[] = $selected_course_title;
+                }
+            }
+        }
+        ?>
+
+        <div class="superForm__selectedCourses">
+            <div class="superForm__selectedCourses-title">Вы выбрали курсы:</div>
+            <?php if (!empty($selected_course_titles)): ?>
+                <?php foreach ($selected_course_titles as $selected_course_title): ?>
+                    <div class="superForm__selectedCourses-item"><?php echo esc_html($selected_course_title); ?></div>
+                <?php endforeach; ?>
+            <?php else: ?>
+                <div class="superForm__selectedCourses-item">Курсы не выбраны</div>
+            <?php endif; ?>
+        </div>
+
         <div class="superForm__step superForm__step-1 active">
             <div class="superForm__formTitle">Контактное лицо</div>
             <div class="superForm__step-contactsForm">
@@ -588,6 +623,19 @@
         font-size: 20px;
         margin-bottom: 15px;
         font-weight: bold;
+    }
+
+    .superForm__selectedCourses {
+        margin-bottom: 16px;
+    }
+
+    .superForm__selectedCourses-title {
+        font-weight: 600;
+        margin-bottom: 6px;
+    }
+
+    .superForm__selectedCourses-item {
+        line-height: 1.4;
     }
 
     .superForm__inputWrap {
