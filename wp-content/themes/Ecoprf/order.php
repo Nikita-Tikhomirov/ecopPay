@@ -614,6 +614,13 @@
         padding-right: 10px;
     }
 
+    /* Prevent iOS Safari auto-zoom on focus (happens when control font-size < 16px). */
+    .superForm input,
+    .superForm select,
+    .superForm textarea {
+        font-size: 16px;
+    }
+
     .customSwitcher {
         display: flex;
         flex-direction: column;
