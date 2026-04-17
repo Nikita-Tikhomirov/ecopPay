@@ -1,6 +1,6 @@
-<?php
+﻿<?php
 /**
- * Template Name: Корзина
+ * Template Name: РљРѕСЂР·РёРЅР°
  */ ?>
 
 
@@ -8,10 +8,10 @@
 
 
 <div class="wcat wcatinner superFormWrap">
-    <h1>Оформление заявки на обучение</h1>
-    <p>Онлайн-оплата и рассрочка доступны только для физических лиц. Рассрочка предоставляется от партнёров при сумме обучения от 9 900 ₽. Можно объединить несколько программ в один договор, чтобы набрать нужную сумму.</p>
+    <h1>РћС„РѕСЂРјР»РµРЅРёРµ Р·Р°СЏРІРєРё РЅР° РѕР±СѓС‡РµРЅРёРµ</h1>
+    <p>РћРЅР»Р°Р№РЅ-РѕРїР»Р°С‚Р° Рё СЂР°СЃСЃСЂРѕС‡РєР° РґРѕСЃС‚СѓРїРЅС‹ С‚РѕР»СЊРєРѕ РґР»СЏ С„РёР·РёС‡РµСЃРєРёС… Р»РёС†. Р Р°СЃСЃСЂРѕС‡РєР° РїСЂРµРґРѕСЃС‚Р°РІР»СЏРµС‚СЃСЏ РѕС‚ РїР°СЂС‚РЅС‘СЂРѕРІ РїСЂРё СЃСѓРјРјРµ РѕР±СѓС‡РµРЅРёСЏ РѕС‚ 9 900 в‚Ѕ. РњРѕР¶РЅРѕ РѕР±СЉРµРґРёРЅРёС‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ РїСЂРѕРіСЂР°РјРј РІ РѕРґРёРЅ РґРѕРіРѕРІРѕСЂ, С‡С‚РѕР±С‹ РЅР°Р±СЂР°С‚СЊ РЅСѓР¶РЅСѓСЋ СЃСѓРјРјСѓ.</p>
 
-    <p>Юридические лица могут оформить заявку и получить счёт на оплату по электронной почте.</p>
+    <p>Р®СЂРёРґРёС‡РµСЃРєРёРµ Р»РёС†Р° РјРѕРіСѓС‚ РѕС„РѕСЂРјРёС‚СЊ Р·Р°СЏРІРєСѓ Рё РїРѕР»СѓС‡РёС‚СЊ СЃС‡С‘С‚ РЅР° РѕРїР»Р°С‚Сѓ РїРѕ СЌР»РµРєС‚СЂРѕРЅРЅРѕР№ РїРѕС‡С‚Рµ.</p>
     <div class="superForm">
         <div class="superForm__stepsWrap">
             <div class="superForm__stepsWrap-step active">1</div>
@@ -43,64 +43,65 @@
         }
         ?>
 
+
+        <div class="superForm__step superForm__step-1 active">
+
         <div class="superForm__selectedCourses">
-            <div class="superForm__selectedCourses-title">Вы выбрали курсы:</div>
+            <div class="superForm__selectedCourses-title">Р’С‹ РІС‹Р±СЂР°Р»Рё РєСѓСЂСЃС‹:</div>
             <?php if (!empty($selected_course_titles)): ?>
                 <?php foreach ($selected_course_titles as $selected_course_title): ?>
                     <div class="superForm__selectedCourses-item"><?php echo esc_html($selected_course_title); ?></div>
                 <?php endforeach; ?>
             <?php else: ?>
-                <div class="superForm__selectedCourses-item">Курсы не выбраны</div>
+                <div class="superForm__selectedCourses-item">РљСѓСЂСЃС‹ РЅРµ РІС‹Р±СЂР°РЅС‹</div>
             <?php endif; ?>
         </div>
-
-        <div class="superForm__step superForm__step-1 active">
-            <div class="superForm__formTitle">Контактное лицо</div>
+            <div class="superForm__formTitle">РљРѕРЅС‚Р°РєС‚РЅРѕРµ Р»РёС†Рѕ</div>
             <div class="superForm__step-contactsForm">
                 <div class="superForm__inputWrap">
-                    <label for="name">ФИО:</label>
-                    <input type="text" name="name" id="name" placeholder="ФИО">
+                    <label for="name">Р¤РРћ:</label>
+                    <input type="text" name="name" id="name" placeholder="Р¤РРћ">
                 </div>
                 <div class="superForm__inputWrap">
-                    <label for="phone">Контактный телефон:</label>
+                    <label for="phone">РљРѕРЅС‚Р°РєС‚РЅС‹Р№ С‚РµР»РµС„РѕРЅ:</label>
                     <input type="tel" name="phone" id="phone" placeholder="+7-999-999-99-99">
                 </div>
                 <div class="superForm__inputWrap">
-                    <label for="email">Электронная почта:</label>
+                    <label for="email">Р­Р»РµРєС‚СЂРѕРЅРЅР°СЏ РїРѕС‡С‚Р°:</label>
                     <input type="email" name="email" id="email" placeholder="youremail@mail.ru">
                 </div>
 
-                <div class="superForm__formTitle" style="margin-top:10px">Форма обучения</div>
+                <div class="superForm__formTitle" style="margin-top:10px">Р¤РѕСЂРјР° РѕР±СѓС‡РµРЅРёСЏ</div>
                 <div class="customSwitcher">
                     <ul>
                         <li>
-                            <input type="radio" name="learning_form" id="one" value="Дистанционная" checked />
-                            <label for="one">Дистанционная</label>
+                            <input type="radio" name="learning_form" id="one" value="Р”РёСЃС‚Р°РЅС†РёРѕРЅРЅР°СЏ" checked />
+                            <label for="one">Р”РёСЃС‚Р°РЅС†РёРѕРЅРЅР°СЏ</label>
 
                             <div class="check"></div>
                         </li>
 
                         <li>
-                            <input type="radio" name="learning_form" id="two" value="Очная" />
-                            <label for="two">Очная</label>
+                            <input type="radio" name="learning_form" id="two" value="РћС‡РЅР°СЏ" />
+                            <label for="two">РћС‡РЅР°СЏ</label>
 
                             <div class="check"></div>
                         </li>
                     </ul>
                 </div>
-                <div class="superForm__nextBtn header-message">Далее</div>
+                <div class="superForm__nextBtn header-message">Р”Р°Р»РµРµ</div>
 
             </div>
         </div>
 
         <div class="superForm__step superForm__step-2 distanceFormLearning">
-            <div class="superForm__formTitle">Заполните слушателей для каждого курса</div>
+            <div class="superForm__formTitle">Р—Р°РїРѕР»РЅРёС‚Рµ СЃР»СѓС€Р°С‚РµР»РµР№ РґР»СЏ РєР°Р¶РґРѕРіРѕ РєСѓСЂСЃР°</div>
 
             <div class="superForm__cources">
 
 
                 <?php
-                // Получаем ID курсов из корзины (cookie)
+                // РџРѕР»СѓС‡Р°РµРј ID РєСѓСЂСЃРѕРІ РёР· РєРѕСЂР·РёРЅС‹ (cookie)
                 $cart = isset($_COOKIE['cart_courses']) ? explode(',', $_COOKIE['cart_courses']) : [];
 
                 if (!empty($cart)):
@@ -141,11 +142,11 @@
                             </div>
 
                             <!-- <div class="superForm__cource-price">
-                                <?php echo number_format((int) $price, 0, '', ' '); ?> ₽
+                                <?php echo number_format((int) $price, 0, '', ' '); ?> в‚Ѕ
                             </div> -->
 
                             <div class="superForm__studentsCounterWrap">
-                                <div class="superForm__studentsCounter-title">Количество слушателей:</div>
+                                <div class="superForm__studentsCounter-title">РљРѕР»РёС‡РµСЃС‚РІРѕ СЃР»СѓС€Р°С‚РµР»РµР№:</div>
 
                                 <div class="superForm__studentsCounter">
                                     <button type="button" class="superForm__counter-button" data-action="decrease">-</button>
@@ -155,13 +156,13 @@
                             </div>
 
                             <div class="superForm__studentsWrap">
-                                <div class="superForm__students-title">Данные слушателей:</div>
+                                <div class="superForm__students-title">Р”Р°РЅРЅС‹Рµ СЃР»СѓС€Р°С‚РµР»РµР№:</div>
                                 <div class="superForm__students"></div>
                             </div>
 
                             <div class="superForm__removeWrap">
                                 <button type="button" class="removeFromCartBtn"
-                                    data-product-id="<?php echo $course->ID; ?>">Удалить из корзины</button>
+                                    data-product-id="<?php echo $course->ID; ?>">РЈРґР°Р»РёС‚СЊ РёР· РєРѕСЂР·РёРЅС‹</button>
                             </div>
 
                         </div>
@@ -170,7 +171,7 @@
                     endforeach;
                     wp_reset_postdata();
                 else:
-                    echo '<p>В корзине пока нет курсов</p>';
+                    echo '<p>Р’ РєРѕСЂР·РёРЅРµ РїРѕРєР° РЅРµС‚ РєСѓСЂСЃРѕРІ</p>';
                 endif;
                 ?>
 
@@ -180,27 +181,27 @@
             </div>
 
 
-            <div class="toggleAddCourceBar">Добавить курсы +</div>
+            <div class="toggleAddCourceBar">Р”РѕР±Р°РІРёС‚СЊ РєСѓСЂСЃС‹ +</div>
             <div class="addCourceWrap">
                 <div class="addCourceWrap__cont">
                     <select name="category" id="category-select">
-                        <option value="">Вид обучения</option>
-                        <option value="2">Повышение квалификации</option>
-                        <option value="3">Профессиональная переподготовка</option>
-                        <option value="24">Рабочие профессии</option>
+                        <option value="">Р’РёРґ РѕР±СѓС‡РµРЅРёСЏ</option>
+                        <option value="2">РџРѕРІС‹С€РµРЅРёРµ РєРІР°Р»РёС„РёРєР°С†РёРё</option>
+                        <option value="3">РџСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅР°СЏ РїРµСЂРµРїРѕРґРіРѕС‚РѕРІРєР°</option>
+                        <option value="24">Р Р°Р±РѕС‡РёРµ РїСЂРѕС„РµСЃСЃРёРё</option>
                     </select>
 
                     <select name="subcategory" id="subcategory-select">
-                        <option value="">Выберите подкатегорию</option>
+                        <option value="">Р’С‹Р±РµСЂРёС‚Рµ РїРѕРґРєР°С‚РµРіРѕСЂРёСЋ</option>
                     </select>
 
                     <select name="cource" id="cource-select">
-                        <option value="">Выберите курс</option>
+                        <option value="">Р’С‹Р±РµСЂРёС‚Рµ РєСѓСЂСЃ</option>
                     </select>
                 </div>
 
                 <div class="customBtnsWrap">
-                    <div class="addCourceBtn">Добавить курс</div>
+                    <div class="addCourceBtn">Р”РѕР±Р°РІРёС‚СЊ РєСѓСЂСЃ</div>
 
                 </div>
 
@@ -208,11 +209,11 @@
             </div>
             <div class="superForm__buttonsWrap">
                 <div class="wrap">
-                    <div class="backBtn">Назад</div>
-                    <div class="toSlideThreeBtn">Далее</div>
+                    <div class="backBtn">РќР°Р·Р°Рґ</div>
+                    <div class="toSlideThreeBtn">Р”Р°Р»РµРµ</div>
                 </div>
                 <div class="clearCartWrap">
-                    <button type="button" id="clearCartBtn">Очистить корзину</button>
+                    <button type="button" id="clearCartBtn">РћС‡РёСЃС‚РёС‚СЊ РєРѕСЂР·РёРЅСѓ</button>
                 </div>
             </div>
 
@@ -223,127 +224,127 @@
         </div>
 
         <div class="superForm__step superForm__step-2 fullTimeFormLearning">
-            <div class="superForm__formTitle">Онлайн оплата невозможна, для дальнейшего обучения с вами свяжется наш
-                менеджер</div>
+            <div class="superForm__formTitle">РћРЅР»Р°Р№РЅ РѕРїР»Р°С‚Р° РЅРµРІРѕР·РјРѕР¶РЅР°, РґР»СЏ РґР°Р»СЊРЅРµР№С€РµРіРѕ РѕР±СѓС‡РµРЅРёСЏ СЃ РІР°РјРё СЃРІСЏР¶РµС‚СЃСЏ РЅР°С€
+                РјРµРЅРµРґР¶РµСЂ</div>
 
         </div>
 
         <div class="superForm__step superForm__step-3">
 
-            <div class="superForm__formTitle">Выберите тип оплаты</div>
+            <div class="superForm__formTitle">Р’С‹Р±РµСЂРёС‚Рµ С‚РёРї РѕРїР»Р°С‚С‹</div>
 
             <div class="payTypeButtons">
 
                 <div class="payForListBtn">
-                    Оплата по счету
+                    РћРїР»Р°С‚Р° РїРѕ СЃС‡РµС‚Сѓ
                 </div>
 
                 <div class="payBtn">
-                    Оплата онлайн
+                    РћРїР»Р°С‚Р° РѕРЅР»Р°Р№РЅ
                 </div>
 
                 <div class="payBtn installmentBtn">
-                    Рассрочка
+                    Р Р°СЃСЃСЂРѕС‡РєР°
                     <span class="installmentHint">
-                        Рассрочка возможна, если общий чек от 9 900 рублей.
+                        Р Р°СЃСЃСЂРѕС‡РєР° РІРѕР·РјРѕР¶РЅР°, РµСЃР»Рё РѕР±С‰РёР№ С‡РµРє РѕС‚ 9 900 СЂСѓР±Р»РµР№.
                     </span>
                 </div>
 
             </div>
 
             <div class="superForm__buttonsWrap">
-                <div class="backBtn">Назад</div>
+                <div class="backBtn">РќР°Р·Р°Рґ</div>
             </div>
 
         </div>
 
         <div class="superForm__step superForm__step-4 invoiceSlide">
 
-            <div class="superForm__formTitle">Оплата по счету</div>
-            <div class="superForm__formTitle">Укажите информацию об организации:</div>
+            <div class="superForm__formTitle">РћРїР»Р°С‚Р° РїРѕ СЃС‡РµС‚Сѓ</div>
+            <div class="superForm__formTitle">РЈРєР°Р¶РёС‚Рµ РёРЅС„РѕСЂРјР°С†РёСЋ РѕР± РѕСЂРіР°РЅРёР·Р°С†РёРё:</div>
 
 
             <div class="superForm__invoice">
 
                 <div class="superForm__invoice-info">
-                    * Часть данных может заполняться автоматически после ввода корректного ИНН.
-                    Проверьте их и при необходимости отредактируйте.
+                    * Р§Р°СЃС‚СЊ РґР°РЅРЅС‹С… РјРѕР¶РµС‚ Р·Р°РїРѕР»РЅСЏС‚СЊСЃСЏ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё РїРѕСЃР»Рµ РІРІРѕРґР° РєРѕСЂСЂРµРєС‚РЅРѕРіРѕ РРќРќ.
+                    РџСЂРѕРІРµСЂСЊС‚Рµ РёС… Рё РїСЂРё РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё РѕС‚СЂРµРґР°РєС‚РёСЂСѓР№С‚Рµ.
                 </div>
 
-                <!-- ================= РЕКВИЗИТЫ ОРГАНИЗАЦИИ ================= -->
+                <!-- ================= Р Р•РљР’РР—РРўР« РћР Р“РђРќРР—РђР¦РР ================= -->
 
                 <div class="superForm__invoice-sectionTitle">
-                    Реквизиты организации
+                    Р РµРєРІРёР·РёС‚С‹ РѕСЂРіР°РЅРёР·Р°С†РёРё
                 </div>
 
                 <div class="superForm__invoice-fields">
 
-                    <input type="text" name="ORGANIZATION_INN" placeholder="ИНН">
+                    <input type="text" name="ORGANIZATION_INN" placeholder="РРќРќ">
 
-                    <input type="text" name="ORGANIZATION_KPP" placeholder="КПП">
+                    <input type="text" name="ORGANIZATION_KPP" placeholder="РљРџРџ">
 
-                    <input type="text" name="ORGANIZATION_UR_ADDR" placeholder="Юридический адрес">
+                    <input type="text" name="ORGANIZATION_UR_ADDR" placeholder="Р®СЂРёРґРёС‡РµСЃРєРёР№ Р°РґСЂРµСЃ">
 
-                    <input type="text" name="ORGANIZATION_FACT_ADDR" placeholder="Фактический адрес">
+                    <input type="text" name="ORGANIZATION_FACT_ADDR" placeholder="Р¤Р°РєС‚РёС‡РµСЃРєРёР№ Р°РґСЂРµСЃ">
 
-                    <input type="text" name="ORGANIZATION_PHONE" placeholder="Телефон">
+                    <input type="text" name="ORGANIZATION_PHONE" placeholder="РўРµР»РµС„РѕРЅ">
 
                     <input type="email" name="ORGANIZATION_EMAIL" placeholder="E-mail">
 
-                    <input type="text" name="ORGANIZATION_RS" placeholder="Расчетный счет">
+                    <input type="text" name="ORGANIZATION_RS" placeholder="Р Р°СЃС‡РµС‚РЅС‹Р№ СЃС‡РµС‚">
 
-                    <input type="text" name="ORGANIZATION_KS" placeholder="Корреспондентский счет">
+                    <input type="text" name="ORGANIZATION_KS" placeholder="РљРѕСЂСЂРµСЃРїРѕРЅРґРµРЅС‚СЃРєРёР№ СЃС‡РµС‚">
 
-                    <input type="text" name="ORGANIZATION_BANK" placeholder="Банк">
+                    <input type="text" name="ORGANIZATION_BANK" placeholder="Р‘Р°РЅРє">
 
-                    <input type="text" name="ORGANIZATION_BIK" placeholder="БИК">
+                    <input type="text" name="ORGANIZATION_BIK" placeholder="Р‘РРљ">
 
                 </div>
 
-                <!-- ================= ПОДПИСАНТ ================= -->
+                <!-- ================= РџРћР”РџРРЎРђРќРў ================= -->
 
                 <div class="superForm__invoice-sectionTitle">
-                    Подписант договора
+                    РџРѕРґРїРёСЃР°РЅС‚ РґРѕРіРѕРІРѕСЂР°
                 </div>
 
                 <div class="superForm__invoice-fields">
 
-                    <input type="text" name="SIGNER_FIO" placeholder="ФИО">
+                    <input type="text" name="SIGNER_FIO" placeholder="Р¤РРћ">
 
-                    <input type="text" name="SIGNER_POSITION" placeholder="Должность">
+                    <input type="text" name="SIGNER_POSITION" placeholder="Р”РѕР»Р¶РЅРѕСЃС‚СЊ">
 
-                    <input type="text" name="SIGNER_BASE" placeholder="На основании (указать документ)">
+                    <input type="text" name="SIGNER_BASE" placeholder="РќР° РѕСЃРЅРѕРІР°РЅРёРё (СѓРєР°Р·Р°С‚СЊ РґРѕРєСѓРјРµРЅС‚)">
 
                 </div>
 
                 <div class="superForm__buttonsWrap">
-                    <div class="backBtn">Назад</div>
-                    <div class="nextAfterInvoice">Далее</div>
+                    <div class="backBtn">РќР°Р·Р°Рґ</div>
+                    <div class="nextAfterInvoice">Р”Р°Р»РµРµ</div>
                 </div>
             </div>
 
         </div>
 
         <div class="superForm__step superForm__step-4 onlinePaySlide">
-            <div class="superForm__formTitle">Оплата онлайн</div>
+            <div class="superForm__formTitle">РћРїР»Р°С‚Р° РѕРЅР»Р°Р№РЅ</div>
 
             <div class="superForm__buttonsWrap">
-                <div class="backBtn">Назад</div>
+                <div class="backBtn">РќР°Р·Р°Рґ</div>
             </div>
         </div>
         <div class="superForm__step superForm__step-4 installmentSlide">
-            <div class="superForm__formTitle">Рассрочка</div>
+            <div class="superForm__formTitle">Р Р°СЃСЃСЂРѕС‡РєР°</div>
 
             <div class="superForm__buttonsWrap">
-                <div class="backBtn">Назад</div>
+                <div class="backBtn">РќР°Р·Р°Рґ</div>
             </div>
         </div>
 
         <div class="superForm__step superForm__step-5 lastStep">
-            <div class="superForm__formTitle">Заявка принята</div>
+            <div class="superForm__formTitle">Р—Р°СЏРІРєР° РїСЂРёРЅСЏС‚Р°</div>
 
             <div class="superForm__buttonsWrap">
-                <div class="backBtn">Назад</div>
+                <div class="backBtn">РќР°Р·Р°Рґ</div>
             </div>
         </div>
 
@@ -438,7 +439,7 @@
         cursor: not-allowed;
     }
 
-    /* хинт */
+    /* С…РёРЅС‚ */
     .installmentHint {
         position: absolute;
         bottom: 110%;
@@ -463,7 +464,7 @@
         border-radius: 75px;
         transition: .5s;
         width: fit-content;
-        сгursor: pointer;
+        СЃРіursor: pointer;
     }
 
     .superForm__invoice-sectionTitle {
@@ -680,7 +681,7 @@
 
 
     /* Radio Button
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“вЂ“ */
     .customSwitcher input[type=radio] {
         position: absolute;
         visibility: hidden;
@@ -1009,7 +1010,7 @@
 </style>
 
 
-<!-- Слады и отправка -->
+<!-- РЎР»Р°РґС‹ Рё РѕС‚РїСЂР°РІРєР° -->
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
@@ -1255,7 +1256,7 @@
 
             const learningRadio = slides[0].querySelector('input[name="learning_form"]:checked')
 
-            // ===== ПРОВЕРКИ =====
+            // ===== РџР РћР’Р•Р РљР =====
             let hasErrors = false
 
             if (!fio) {
@@ -1274,18 +1275,18 @@
             }
 
             if (hasErrors) {
-                alert('Заполните ФИО, телефон и email в корректном формате')
+                alert('Р—Р°РїРѕР»РЅРёС‚Рµ Р¤РРћ, С‚РµР»РµС„РѕРЅ Рё email РІ РєРѕСЂСЂРµРєС‚РЅРѕРј С„РѕСЂРјР°С‚Рµ')
                 return
             }
 
             if (!learningRadio) {
-                alert('Выберите форму обучения')
+                alert('Р’С‹Р±РµСЂРёС‚Рµ С„РѕСЂРјСѓ РѕР±СѓС‡РµРЅРёСЏ')
                 return
             }
 
             const learningForm = learningRadio.value
 
-            // ===== ОТПРАВКА ДАННЫХ =====
+            // ===== РћРўРџР РђР’РљРђ Р”РђРќРќР«РҐ =====
             formDataMain = new FormData()
 
             formDataMain.append('formid', 'quiz')
@@ -1295,7 +1296,7 @@
             formDataMain.append('learning_form', learningForm)
             formDataMain.append('page', location.href)
 
-            if (learningForm === "Дистанционная") {
+            if (learningForm === "Р”РёСЃС‚Р°РЅС†РёРѕРЅРЅР°СЏ") {
                 setActiveSlide(slides[1])
             } else {
                 const fullTimeSlide = document.querySelector('.superForm__step-2.fullTimeFormLearning')
@@ -1312,33 +1313,33 @@
                     .then(r => r.json())
                     .then(res => {
                         if (!res.success) {
-                            console.warn('Ошибка отправки очной заявки:', res.message || 'unknown error')
+                            console.warn('РћС€РёР±РєР° РѕС‚РїСЂР°РІРєРё РѕС‡РЅРѕР№ Р·Р°СЏРІРєРё:', res.message || 'unknown error')
                         }
                     })
                     .catch(() => {
-                        console.warn('Ошибка соединения при отправке очной заявки')
+                        console.warn('РћС€РёР±РєР° СЃРѕРµРґРёРЅРµРЅРёСЏ РїСЂРё РѕС‚РїСЂР°РІРєРµ РѕС‡РЅРѕР№ Р·Р°СЏРІРєРё')
                     })
 
             }
         })
 
         // =============================
-        // ОБРАБОТЧИКИ КНОПОК "НАЗАД"
+        // РћР‘Р РђР‘РћРўР§РРљР РљРќРћРџРћРљ "РќРђР—РђР”"
         // =============================
         const backBtns = document.querySelectorAll('.backBtn')
 
         backBtns.forEach((backBtn, index) => {
             backBtn.addEventListener('click', () => {
-                // Определяем текущий активный слайд
+                // РћРїСЂРµРґРµР»СЏРµРј С‚РµРєСѓС‰РёР№ Р°РєС‚РёРІРЅС‹Р№ СЃР»Р°Р№Рґ
                 const activeSlide = document.querySelector('.superForm__step.active')
                 const activeIndex = Array.from(slides).indexOf(activeSlide)
 
                 if (activeIndex > 0) {
-                    // Убираем активный класс с текущего слайда
+                    // РЈР±РёСЂР°РµРј Р°РєС‚РёРІРЅС‹Р№ РєР»Р°СЃСЃ СЃ С‚РµРєСѓС‰РµРіРѕ СЃР»Р°Р№РґР°
                     activeSlide.classList.remove('active')
                     counter[activeIndex].classList.remove('active')
 
-                    // Добавляем активный класс на предыдущий слайд
+                    // Р”РѕР±Р°РІР»СЏРµРј Р°РєС‚РёРІРЅС‹Р№ РєР»Р°СЃСЃ РЅР° РїСЂРµРґС‹РґСѓС‰РёР№ СЃР»Р°Р№Рґ
                     slides[activeIndex - 1].classList.add('active')
                     counter[activeIndex - 1].classList.add('active')
                 }
@@ -1370,22 +1371,22 @@
 
         function getStudentSurname(student) {
             const fullName = student.querySelector('input[name="student_name[]"]')?.value?.trim() || ''
-            if (!fullName) return 'Фамилия не указана'
-            return fullName.split(/\s+/)[0] || 'Фамилия не указана'
+            if (!fullName) return 'Р¤Р°РјРёР»РёСЏ РЅРµ СѓРєР°Р·Р°РЅР°'
+            return fullName.split(/\s+/)[0] || 'Р¤Р°РјРёР»РёСЏ РЅРµ СѓРєР°Р·Р°РЅР°'
         }
 
         function formatInvalidStudentsList(surnames) {
             const uniqueSurnames = [...new Set(surnames.filter(Boolean))]
             if (!uniqueSurnames.length) return ''
-            return `\n\nСлушатели: ${uniqueSurnames.join(', ')}`
+            return `\n\nРЎР»СѓС€Р°С‚РµР»Рё: ${uniqueSurnames.join(', ')}`
         }
 
         function getEducationErrorMessage(educationTrack) {
             if (educationTrack === 'worker') {
-                return 'Уровень образования у слушателя не соответствует норме'
+                return 'РЈСЂРѕРІРµРЅСЊ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ Сѓ СЃР»СѓС€Р°С‚РµР»СЏ РЅРµ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РЅРѕСЂРјРµ'
             }
 
-            return 'Уровень образования у слушателя не соответствует норме'
+            return 'РЈСЂРѕРІРµРЅСЊ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ Сѓ СЃР»СѓС€Р°С‚РµР»СЏ РЅРµ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РЅРѕСЂРјРµ'
         }
 
         document.addEventListener('click', (e) => {
@@ -1429,7 +1430,7 @@
 
                     if (!nameValue || !snilsValue || !emailValue || !isValidEmail(emailValue)) {
                         hasInvalidStudent = true
-                        invalidReason = 'Заполните ФИО, СНИЛС и email для каждого слушателя'
+                        invalidReason = 'Р—Р°РїРѕР»РЅРёС‚Рµ Р¤РРћ, РЎРќРР›РЎ Рё email РґР»СЏ РєР°Р¶РґРѕРіРѕ СЃР»СѓС€Р°С‚РµР»СЏ'
                         invalidSurnames.push(getStudentSurname(student))
                         if (!nameValue) markFieldError(nameInput)
                         if (!snilsValue) markFieldError(snilsInput)
@@ -1439,7 +1440,7 @@
 
                     if (!isAdult(birthValue)) {
                         hasInvalidStudent = true
-                        invalidReason = 'Возраст слушателя меньше 18 лет или дата рождения заполнена некорректно'
+                        invalidReason = 'Р’РѕР·СЂР°СЃС‚ СЃР»СѓС€Р°С‚РµР»СЏ РјРµРЅСЊС€Рµ 18 Р»РµС‚ РёР»Рё РґР°С‚Р° СЂРѕР¶РґРµРЅРёСЏ Р·Р°РїРѕР»РЅРµРЅР° РЅРµРєРѕСЂСЂРµРєС‚РЅРѕ'
                         markFieldError(birthInput)
                         shouldSendToManager = true
                         return
@@ -1447,7 +1448,7 @@
 
                     if (!eduValue) {
                         hasInvalidStudent = true
-                        invalidReason = 'Выберите уровень образования для каждого слушателя'
+                        invalidReason = 'Р’С‹Р±РµСЂРёС‚Рµ СѓСЂРѕРІРµРЅСЊ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ РґР»СЏ РєР°Р¶РґРѕРіРѕ СЃР»СѓС€Р°С‚РµР»СЏ'
                         invalidSurnames.push(getStudentSurname(student))
                         markFieldError(eduSelect)
                         return
@@ -1465,14 +1466,14 @@
             })
 
             // =========================
-            // ЕСЛИ ЕСТЬ ОШИБКА
+            // Р•РЎР›Р Р•РЎРўР¬ РћРЁРР‘РљРђ
             // =========================
             if (hasInvalidStudent) {
                 if (shouldSendToManager) {
                     alert(
                         invalidReason +
                         formatInvalidStudentsList(invalidSurnames) +
-                        '\n\nОнлайн оплата невозможна. С Вами свяжется менеджер.'
+                        '\n\nРћРЅР»Р°Р№РЅ РѕРїР»Р°С‚Р° РЅРµРІРѕР·РјРѕР¶РЅР°. РЎ Р’Р°РјРё СЃРІСЏР¶РµС‚СЃСЏ РјРµРЅРµРґР¶РµСЂ.'
                     )
                     sendToManager()
                     return
@@ -1488,7 +1489,7 @@
 
         function isAdult(dateStr) {
 
-            // ожидаем ДД.ММ.ГГГГ
+            // РѕР¶РёРґР°РµРј Р”Р”.РњРњ.Р“Р“Р“Р“
             if (!dateStr || dateStr.length !== 10) return false
 
             const parts = dateStr.split('.')
@@ -1510,8 +1511,8 @@
                 age--
             }
 
-            // Отладочный вывод
-            console.log('Проверка возраста:', {
+            // РћС‚Р»Р°РґРѕС‡РЅС‹Р№ РІС‹РІРѕРґ
+            console.log('РџСЂРѕРІРµСЂРєР° РІРѕР·СЂР°СЃС‚Р°:', {
                 input: dateStr,
                 birthDate: birthDate.toLocaleDateString(),
                 today: today.toLocaleDateString(),
@@ -1531,7 +1532,7 @@
             const formData = new FormData()
 
             // =========================
-            // ОСНОВНЫЕ ДАННЫЕ (slide 1)
+            // РћРЎРќРћР’РќР«Р• Р”РђРќРќР«Р• (slide 1)
             // =========================
             for (let [key, value] of formDataMain.entries()) {
                 formData.append(key, value)
@@ -1540,13 +1541,13 @@
             formData.append('formid', 'quiz_manager')
 
             // =========================
-            // КУРСЫ + СЛУШАТЕЛИ
+            // РљРЈР РЎР« + РЎР›РЈРЁРђРўР•Р›Р
             // =========================
             document.querySelectorAll('.superForm__cource')
                 .forEach((course, courseIndex) => {
 
                     const courseTitle =
-                        course.querySelector('.superForm__cource-title')?.innerText.trim() || 'Без названия'
+                        course.querySelector('.superForm__cource-title')?.innerText.trim() || 'Р‘РµР· РЅР°Р·РІР°РЅРёСЏ'
 
                     formData.append(`courses[${courseIndex}][title]`, courseTitle)
 
@@ -1584,7 +1585,7 @@
                 })
 
             // =========================
-            // ОТПРАВКА
+            // РћРўРџР РђР’РљРђ
             // =========================
             fetch('/mail2.php', {
                 method: 'POST',
@@ -1597,7 +1598,7 @@
             const formData = new FormData()
 
             // =========================
-            // ОСНОВНЫЕ ДАННЫЕ (step 1)
+            // РћРЎРќРћР’РќР«Р• Р”РђРќРќР«Р• (step 1)
             // =========================
             for (let [key, value] of formDataMain.entries()) {
                 formData.append(key, value)
@@ -1606,7 +1607,7 @@
             formData.append('formid', 'quiz_invoice')
 
             // =========================
-            // ДАННЫЕ ОРГАНИЗАЦИИ
+            // Р”РђРќРќР«Р• РћР Р“РђРќРР—РђР¦РР
             // =========================
             document
                 .querySelectorAll('.invoiceSlide input')
@@ -1616,13 +1617,13 @@
 
 
             // =========================
-            // КУРСЫ + СЛУШАТЕЛИ
+            // РљРЈР РЎР« + РЎР›РЈРЁРђРўР•Р›Р
             // =========================
             document.querySelectorAll('.superForm__cource')
                 .forEach((course, courseIndex) => {
 
                     const courseTitle =
-                        course.querySelector('.superForm__cource-title')?.innerText.trim() || 'Без названия'
+                        course.querySelector('.superForm__cource-title')?.innerText.trim() || 'Р‘РµР· РЅР°Р·РІР°РЅРёСЏ'
 
                     formData.append(`courses[${courseIndex}][title]`, courseTitle)
 
@@ -1661,7 +1662,7 @@
 
 
             // =========================
-            // ОТПРАВКА
+            // РћРўРџР РђР’РљРђ
             // =========================
             return fetch('/mail3.php', {
                 method: 'POST',
@@ -1670,7 +1671,7 @@
                 .then(r => r.json())
                 .then(res => {
                     if (!res.success) {
-                        throw new Error(res.message || 'Ошибка отправки заявки')
+                        throw new Error(res.message || 'РћС€РёР±РєР° РѕС‚РїСЂР°РІРєРё Р·Р°СЏРІРєРё')
                     }
                     return res
                 })
@@ -1726,7 +1727,7 @@
             }
 
             if (hasInvoiceErrors) {
-                alert('Заполните все обязательные поля реквизитов и подписанта')
+                alert('Р—Р°РїРѕР»РЅРёС‚Рµ РІСЃРµ РѕР±СЏР·Р°С‚РµР»СЊРЅС‹Рµ РїРѕР»СЏ СЂРµРєРІРёР·РёС‚РѕРІ Рё РїРѕРґРїРёСЃР°РЅС‚Р°')
                 return
             }
 
@@ -1737,7 +1738,7 @@
                 }
                 setActiveSlide(lastStep)
             } catch (error) {
-                alert(error?.message || 'Ошибка отправки заявки')
+                alert(error?.message || 'РћС€РёР±РєР° РѕС‚РїСЂР°РІРєРё Р·Р°СЏРІРєРё')
             }
         })
 
@@ -1747,11 +1748,11 @@
                 if (!payBtn.classList.contains('disabled')) {
                     const formData = new FormData()
                     const paymentType = payBtn.classList.contains('installmentBtn')
-                        ? 'Рассрочка'
-                        : 'Онлайн-оплата'
+                        ? 'Р Р°СЃСЃСЂРѕС‡РєР°'
+                        : 'РћРЅР»Р°Р№РЅ-РѕРїР»Р°С‚Р°'
 
                     // =========================
-                    // ОСНОВНЫЕ ДАННЫЕ
+                    // РћРЎРќРћР’РќР«Р• Р”РђРќРќР«Р•
                     // =========================
                     for (let [key, value] of formDataMain.entries()) {
                         formData.append(key, value)
@@ -1761,13 +1762,13 @@
                     formData.append('payment_type', paymentType)
 
                     // =========================
-                    // КУРСЫ + СЛУШАТЕЛИ
+                    // РљРЈР РЎР« + РЎР›РЈРЁРђРўР•Р›Р
                     // =========================
                     document.querySelectorAll('.superForm__cource')
                         .forEach((course, courseIndex) => {
 
                             const courseTitle =
-                                course.querySelector('.superForm__cource-title')?.innerText.trim() || 'Без названия'
+                                course.querySelector('.superForm__cource-title')?.innerText.trim() || 'Р‘РµР· РЅР°Р·РІР°РЅРёСЏ'
 
                             const coursePrice = course.dataset.price || 0
 
@@ -1807,7 +1808,7 @@
                         })
 
                     // =========================
-                    // СОЗДАНИЕ ЗАКАЗА
+                    // РЎРћР—Р”РђРќРР• Р—РђРљРђР—Рђ
                     // =========================
                     fetch('/payscript.php', {
                         method: 'POST',
@@ -1817,7 +1818,7 @@
                         .then(res => {
 
                             if (!res.success) {
-                                alert(res.message || 'Ошибка создания оплаты')
+                                alert(res.message || 'РћС€РёР±РєР° СЃРѕР·РґР°РЅРёСЏ РѕРїР»Р°С‚С‹')
                                 return
                             }
 
@@ -1827,7 +1828,7 @@
                             window.location.href = res.payment_link
                         })
                         .catch(() => {
-                            alert('Ошибка соединения')
+                            alert('РћС€РёР±РєР° СЃРѕРµРґРёРЅРµРЅРёСЏ')
                         })
                 }
 
@@ -1846,7 +1847,7 @@
 
 
 
-<!-- Получение категорий и курсов для добавления -->
+<!-- РџРѕР»СѓС‡РµРЅРёРµ РєР°С‚РµРіРѕСЂРёР№ Рё РєСѓСЂСЃРѕРІ РґР»СЏ РґРѕР±Р°РІР»РµРЅРёСЏ -->
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
@@ -1855,8 +1856,8 @@
         const courseSelect = document.getElementById('cource-select');
 
         categorySelect.addEventListener('change', () => {
-            resetSelect(subcategorySelect, 'Выберите подкатегорию');
-            resetSelect(courseSelect, 'Выберите курс');
+            resetSelect(subcategorySelect, 'Р’С‹Р±РµСЂРёС‚Рµ РїРѕРґРєР°С‚РµРіРѕСЂРёСЋ');
+            resetSelect(courseSelect, 'Р’С‹Р±РµСЂРёС‚Рµ РєСѓСЂСЃ');
 
             if (!categorySelect.value) return;
 
@@ -1870,7 +1871,7 @@
         });
 
         subcategorySelect.addEventListener('change', () => {
-            resetSelect(courseSelect, 'Выберите курс');
+            resetSelect(courseSelect, 'Р’С‹Р±РµСЂРёС‚Рµ РєСѓСЂСЃ');
 
             if (!subcategorySelect.value) return;
 
@@ -1892,11 +1893,11 @@
 </script>
 
 
-<!-- Добавление курсов и студентов -->
+<!-- Р”РѕР±Р°РІР»РµРЅРёРµ РєСѓСЂСЃРѕРІ Рё СЃС‚СѓРґРµРЅС‚РѕРІ -->
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
-        const studentsCache = {} // { "ивановиван": { birthdate:'', snils:'', education:'', email:'' } }
+        const studentsCache = {} // { "РёРІР°РЅРѕРІРёРІР°РЅ": { birthdate:'', snils:'', education:'', email:'' } }
 
 
         const coursesWrap = document.querySelector('.superForm__cources')
@@ -1928,19 +1929,19 @@
 
         function createStudentMarkup(student = {}) {
             return `
-                <input type="text" name="student_name[]" placeholder="ФИО" value="${escapeAttr(student.name)}">
+                <input type="text" name="student_name[]" placeholder="Р¤РРћ" value="${escapeAttr(student.name)}">
                 <select name="student_education[]">
-                    <option value="" ${student.education === '' ? 'selected' : ''}>Выберите уровень образования</option>
-                    <option value="0" ${student.education === '0' ? 'selected' : ''}>Нет (Нет аттестата)</option>
-                    <option value="1" ${student.education === '1' ? 'selected' : ''}>Среднее (Школа)</option>
-                    <option value="2" ${student.education === '2' ? 'selected' : ''}>Среднее профессиональное / Высшее</option>
+                    <option value="" ${student.education === '' ? 'selected' : ''}>Р’С‹Р±РµСЂРёС‚Рµ СѓСЂРѕРІРµРЅСЊ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ</option>
+                    <option value="0" ${student.education === '0' ? 'selected' : ''}>РќРµС‚ (РќРµС‚ Р°С‚С‚РµСЃС‚Р°С‚Р°)</option>
+                    <option value="1" ${student.education === '1' ? 'selected' : ''}>РЎСЂРµРґРЅРµРµ (РЁРєРѕР»Р°)</option>
+                    <option value="2" ${student.education === '2' ? 'selected' : ''}>РЎСЂРµРґРЅРµРµ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅРѕРµ / Р’С‹СЃС€РµРµ</option>
                 </select>
                 <input type="email" name="student_email[]" placeholder="Email" value="${escapeAttr(student.email)}">
             `
         }
 
         // =============================
-        // ФУНКЦИИ ДЛЯ КОРЗИНЫ
+        // Р¤РЈРќРљР¦РР Р”Р›РЇ РљРћР Р—РРќР«
         // =============================
         function getCookieValuesByName(name) {
             return document.cookie
@@ -2022,7 +2023,7 @@
             if (!cart.includes(normalizedId)) {
                 cart.push(normalizedId)
                 saveCart(cart)
-                // Обновляем виджет корзины
+                // РћР±РЅРѕРІР»СЏРµРј РІРёРґР¶РµС‚ РєРѕСЂР·РёРЅС‹
                 if (typeof updateCartWidget === 'function') {
                     updateCartWidget()
                 }
@@ -2035,18 +2036,18 @@
 
             cart = cart.filter(id => String(id) !== targetId)
             saveCart(cart)
-            // Обновляем виджет корзины
+            // РћР±РЅРѕРІР»СЏРµРј РІРёРґР¶РµС‚ РєРѕСЂР·РёРЅС‹
             if (typeof updateCartWidget === 'function') {
                 updateCartWidget()
             }
         }
 
         // =============================
-        // ДЕЛЕГИРОВАНИЕ СЧЁТЧИКА И КНОПОК
+        // Р”Р•Р›Р•Р“РР РћР’РђРќРР• РЎР§РЃРўР§РРљРђ Р РљРќРћРџРћРљ
         // =============================
         coursesWrap.addEventListener('click', e => {
 
-            // --- счётчики слушателей ---
+            // --- СЃС‡С‘С‚С‡РёРєРё СЃР»СѓС€Р°С‚РµР»РµР№ ---
             const btn = e.target.closest('.superForm__counter-button')
             if (btn) {
                 const course = btn.closest('.superForm__cource')
@@ -2059,7 +2060,7 @@
                 updateInstallmentButton()
             }
 
-            // --- удалить курс из корзины ---
+            // --- СѓРґР°Р»РёС‚СЊ РєСѓСЂСЃ РёР· РєРѕСЂР·РёРЅС‹ ---
             const removeBtn = e.target.closest('.removeFromCartBtn')
             if (removeBtn) {
                 const productId = removeBtn.dataset.productId
@@ -2067,7 +2068,7 @@
                 const course = removeBtn.closest('.superForm__cource')
                 if (course) {
                     course.remove()
-                    updateInstallmentButton() // Обновляем состояние кнопки рассрочки
+                    updateInstallmentButton() // РћР±РЅРѕРІР»СЏРµРј СЃРѕСЃС‚РѕСЏРЅРёРµ РєРЅРѕРїРєРё СЂР°СЃСЃСЂРѕС‡РєРё
                 }
             }
         })
@@ -2084,12 +2085,12 @@
             const studentBlock = e.target.closest('.superForm__student')
             if (!studentBlock) return
 
-            // --- ввод ФИО ---
+            // --- РІРІРѕРґ Р¤РРћ ---
             if (e.target.name === 'student_name[]') {
                 tryAutofillStudent(studentBlock)
             }
 
-            // --- любое изменение сохраняем ---
+            // --- Р»СЋР±РѕРµ РёР·РјРµРЅРµРЅРёРµ СЃРѕС…СЂР°РЅСЏРµРј ---
             if (
                 e.target.name === 'student_name[]' ||
                 e.target.name === 'student_birthdate[]' ||
@@ -2103,18 +2104,18 @@
         })
 
         // =============================
-        // ОБНОВЛЕНИЕ ФОРМ СЛУШАТЕЛЕЙ
+        // РћР‘РќРћР’Р›Р•РќРР• Р¤РћР Рњ РЎР›РЈРЁРђРўР•Р›Р•Р™
         // =============================
         function createStudentMarkup(student = {}) {
             return `
-                <input type="text" name="student_name[]" placeholder="ФИО" value="${escapeAttr(student.name)}">
-                <input type="text" name="student_birthdate[]" class="birthdate-input" placeholder="Дата рождения (ДД.ММ.ГГГГ)" value="${escapeAttr(student.birthdate)}">
-                <input type="text" name="student_snils[]" placeholder="СНИЛС" value="${escapeAttr(student.snils)}">
+                <input type="text" name="student_name[]" placeholder="Р¤РРћ" value="${escapeAttr(student.name)}">
+                <input type="text" name="student_birthdate[]" class="birthdate-input" placeholder="Р”Р°С‚Р° СЂРѕР¶РґРµРЅРёСЏ (Р”Р”.РњРњ.Р“Р“Р“Р“)" value="${escapeAttr(student.birthdate)}">
+                <input type="text" name="student_snils[]" placeholder="РЎРќРР›РЎ" value="${escapeAttr(student.snils)}">
                 <select name="student_education[]">
-                    <option value="" ${student.education === '' ? 'selected' : ''}>Выберите уровень образования</option>
-                    <option value="0" ${student.education === '0' ? 'selected' : ''}>Нет (нет аттестата)</option>
-                    <option value="1" ${student.education === '1' ? 'selected' : ''}>Среднее(Школа)</option>
-                    <option value="2" ${student.education === '2' ? 'selected' : ''}>Среднее профессиональное / Высшее</option>
+                    <option value="" ${student.education === '' ? 'selected' : ''}>Р’С‹Р±РµСЂРёС‚Рµ СѓСЂРѕРІРµРЅСЊ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ</option>
+                    <option value="0" ${student.education === '0' ? 'selected' : ''}>РќРµС‚ (РЅРµС‚ Р°С‚С‚РµСЃС‚Р°С‚Р°)</option>
+                    <option value="1" ${student.education === '1' ? 'selected' : ''}>РЎСЂРµРґРЅРµРµ(РЁРєРѕР»Р°)</option>
+                    <option value="2" ${student.education === '2' ? 'selected' : ''}>РЎСЂРµРґРЅРµРµ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅРѕРµ / Р’С‹СЃС€РµРµ</option>
                 </select>
                 <input type="email" name="student_email[]" placeholder="Email" value="${escapeAttr(student.email)}">
             `
@@ -2131,14 +2132,14 @@
                 const student = document.createElement('div')
                 student.className = 'superForm__student'
                 student.innerHTML = `
-                <input type="text" name="student_name[]" placeholder="ФИО">
-                <input type="text" name="student_birthdate[]" class="birthdate-input" placeholder="Дата рождения (ДД.ММ.ГГГГ)">
-                <input type="text" name="student_snils[]" placeholder="СНИЛС">
+                <input type="text" name="student_name[]" placeholder="Р¤РРћ">
+                <input type="text" name="student_birthdate[]" class="birthdate-input" placeholder="Р”Р°С‚Р° СЂРѕР¶РґРµРЅРёСЏ (Р”Р”.РњРњ.Р“Р“Р“Р“)">
+                <input type="text" name="student_snils[]" placeholder="РЎРќРР›РЎ">
                 <select name="student_education[]">
-                    <option value="" selected>Выберите уровень образования</option>
-                    <option value="0">Нет (нет аттестата)</option>
-                    <option value="1">Среднее(Школа)</option>
-                    <option value="2">Среднее профессиональное / Высшее</option>
+                    <option value="" selected>Р’С‹Р±РµСЂРёС‚Рµ СѓСЂРѕРІРµРЅСЊ РѕР±СЂР°Р·РѕРІР°РЅРёСЏ</option>
+                    <option value="0">РќРµС‚ (РЅРµС‚ Р°С‚С‚РµСЃС‚Р°С‚Р°)</option>
+                    <option value="1">РЎСЂРµРґРЅРµРµ(РЁРєРѕР»Р°)</option>
+                    <option value="2">РЎСЂРµРґРЅРµРµ РїСЂРѕС„РµСЃСЃРёРѕРЅР°Р»СЊРЅРѕРµ / Р’С‹СЃС€РµРµ</option>
                 </select>
                 <input type="email" name="student_email[]" placeholder="Email">
             `
@@ -2149,7 +2150,7 @@
         }
 
         // =============================
-        // МАСКА ДАТЫ
+        // РњРђРЎРљРђ Р”РђРўР«
         // =============================
         function initDateMask(scope) {
             scope.querySelectorAll('.birthdate-input').forEach(input => {
@@ -2167,13 +2168,13 @@
         }
 
         // =============================
-        // ДОБАВИТЬ КУРС
+        // Р”РћР‘РђР’РРўР¬ РљРЈР РЎ
         // =============================
         if (addCourseBtn) {
             addCourseBtn.addEventListener('click', () => {
                 const courceSelect = document.getElementById('cource-select')
                 if (!courceSelect.value) {
-                    alert('Выберите курс')
+                    alert('Р’С‹Р±РµСЂРёС‚Рµ РєСѓСЂСЃ')
                     return
                 }
 
@@ -2191,7 +2192,7 @@
                 course.innerHTML = `
                 <div class="superForm__cource-title">${title}</div>
                 <div class="superForm__studentsCounterWrap">
-                    <div class="superForm__studentsCounter-title">Количество слушателей:</div>
+                    <div class="superForm__studentsCounter-title">РљРѕР»РёС‡РµСЃС‚РІРѕ СЃР»СѓС€Р°С‚РµР»РµР№:</div>
                     <div class="superForm__studentsCounter">
                         <button type="button" class="superForm__counter-button" data-action="decrease">-</button>
                         <input type="number" class="superForm__counter-input" value="0" min="0">
@@ -2199,11 +2200,11 @@
                     </div>
                 </div>
                 <div class="superForm__studentsWrap">
-                    <div class="superForm__students-title">Данные слушателей:</div>
+                    <div class="superForm__students-title">Р”Р°РЅРЅС‹Рµ СЃР»СѓС€Р°С‚РµР»РµР№:</div>
                     <div class="superForm__students"></div>
                 </div>
                 <div class="superForm__removeWrap">
-                    <button type="button" class="removeFromCartBtn" data-product-id="${courceSelect.value}">Удалить из корзины</button>
+                    <button type="button" class="removeFromCartBtn" data-product-id="${courceSelect.value}">РЈРґР°Р»РёС‚СЊ РёР· РєРѕСЂР·РёРЅС‹</button>
                 </div>
             `
 
@@ -2214,7 +2215,7 @@
         }
 
         // =============================
-        // ОЧИСТКА ВСЕЙ КОРЗИНЫ
+        // РћР§РРЎРўРљРђ Р’РЎР•Р™ РљРћР Р—РРќР«
         // =============================
         function updateStudents(course) {
             const input = course.querySelector('.superForm__counter-input')
@@ -2239,8 +2240,8 @@
             clearBtn.addEventListener('click', () => {
                 saveCart([])
                 coursesWrap.querySelectorAll('.superForm__cource').forEach(c => c.remove())
-                updateInstallmentButton() // Обновляем состояние кнопки рассрочки
-                // Обновляем виджет корзины
+                updateInstallmentButton() // РћР±РЅРѕРІР»СЏРµРј СЃРѕСЃС‚РѕСЏРЅРёРµ РєРЅРѕРїРєРё СЂР°СЃСЃСЂРѕС‡РєРё
+                // РћР±РЅРѕРІР»СЏРµРј РІРёРґР¶РµС‚ РєРѕСЂР·РёРЅС‹
                 if (typeof updateCartWidget === 'function') {
                     updateCartWidget()
                 }
@@ -2251,7 +2252,7 @@
             return name.toLowerCase().replace(/\s+/g, '').trim()
         }
 
-        // Функция для обновления состояния кнопки рассрочки
+        // Р¤СѓРЅРєС†РёСЏ РґР»СЏ РѕР±РЅРѕРІР»РµРЅРёСЏ СЃРѕСЃС‚РѕСЏРЅРёСЏ РєРЅРѕРїРєРё СЂР°СЃСЃСЂРѕС‡РєРё
         function updateInstallmentButton() {
             const installmentBtn = document.querySelector('.installmentBtn')
             const nextBtn = document.querySelector('.toSlideThreeBtn')
@@ -2284,10 +2285,10 @@
             }
         }
 
-        // Инициализация при загрузке страницы
+        // РРЅРёС†РёР°Р»РёР·Р°С†РёСЏ РїСЂРё Р·Р°РіСЂСѓР·РєРµ СЃС‚СЂР°РЅРёС†С‹
         updateInstallmentButton()
 
-        // Обновляем виджет корзины с небольшой задержкой для гарантии загрузки DOM
+        // РћР±РЅРѕРІР»СЏРµРј РІРёРґР¶РµС‚ РєРѕСЂР·РёРЅС‹ СЃ РЅРµР±РѕР»СЊС€РѕР№ Р·Р°РґРµСЂР¶РєРѕР№ РґР»СЏ РіР°СЂР°РЅС‚РёРё Р·Р°РіСЂСѓР·РєРё DOM
         setTimeout(() => {
             if (typeof updateCartWidget === 'function') {
                 updateCartWidget()
@@ -2339,7 +2340,7 @@
 </script>
 
 
-<!-- Выбор типа оплаты -->
+<!-- Р’С‹Р±РѕСЂ С‚РёРїР° РѕРїР»Р°С‚С‹ -->
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
@@ -2377,7 +2378,7 @@
                 totalSumm += price * count
             })
 
-            // Если сумма >= 9900, убираем disabled с кнопки рассрочки
+            // Р•СЃР»Рё СЃСѓРјРјР° >= 9900, СѓР±РёСЂР°РµРј disabled СЃ РєРЅРѕРїРєРё СЂР°СЃСЃСЂРѕС‡РєРё
             if (totalSumm >= 9900) {
                 installmentBtn.classList.remove('disabled')
             } else {
@@ -2395,16 +2396,16 @@
 
         })
 
-        // Добавляем обработчик клика для кнопки рассрочки
+        // Р”РѕР±Р°РІР»СЏРµРј РѕР±СЂР°Р±РѕС‚С‡РёРє РєР»РёРєР° РґР»СЏ РєРЅРѕРїРєРё СЂР°СЃСЃСЂРѕС‡РєРё
         installmentBtn.addEventListener('click', () => {
 
-            // Проверяем, что кнопка не заблокирована
+            // РџСЂРѕРІРµСЂСЏРµРј, С‡С‚Рѕ РєРЅРѕРїРєР° РЅРµ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°РЅР°
             if (!installmentBtn.classList.contains('disabled')) {
                 navigation.setActiveSlide?.(installmentSlide)
             }
         })
 
-        // Добавляем обработчик для кнопки онлайн-оплаты
+        // Р”РѕР±Р°РІР»СЏРµРј РѕР±СЂР°Р±РѕС‚С‡РёРє РґР»СЏ РєРЅРѕРїРєРё РѕРЅР»Р°Р№РЅ-РѕРїР»Р°С‚С‹
         const onlinePayBtn = document.querySelector('.payBtn:not(.installmentBtn)')
         if (onlinePayBtn) {
             onlinePayBtn.addEventListener('click', () => {
@@ -2412,7 +2413,7 @@
             })
         }
 
-        // Функция для обновления состояния кнопки рассрочки
+        // Р¤СѓРЅРєС†РёСЏ РґР»СЏ РѕР±РЅРѕРІР»РµРЅРёСЏ СЃРѕСЃС‚РѕСЏРЅРёСЏ РєРЅРѕРїРєРё СЂР°СЃСЃСЂРѕС‡РєРё
         function updateInstallmentButton() {
             let totalSumm = 0
 
@@ -2425,57 +2426,57 @@
                 const count = parseInt(input.value) || 0
                 totalSumm += price * count
 
-                // Отладка - выводим каждый курс
-                console.log(`Курс: цена=${price}, кол-во=${count}, сумма=${price * count}`)
+                // РћС‚Р»Р°РґРєР° - РІС‹РІРѕРґРёРј РєР°Р¶РґС‹Р№ РєСѓСЂСЃ
+                console.log(`РљСѓСЂСЃ: С†РµРЅР°=${price}, РєРѕР»-РІРѕ=${count}, СЃСѓРјРјР°=${price * count}`)
             })
 
-            // Отладка - выводим общую сумму
-            console.log(`Общая сумма: ${totalSumm}, порог: 9900`)
-            console.log(`Условие для активации: ${totalSumm >= 9900}`)
+            // РћС‚Р»Р°РґРєР° - РІС‹РІРѕРґРёРј РѕР±С‰СѓСЋ СЃСѓРјРјСѓ
+            console.log(`РћР±С‰Р°СЏ СЃСѓРјРјР°: ${totalSumm}, РїРѕСЂРѕРі: 9900`)
+            console.log(`РЈСЃР»РѕРІРёРµ РґР»СЏ Р°РєС‚РёРІР°С†РёРё: ${totalSumm >= 9900}`)
 
-            // Если сумма >= 9900, убираем disabled с кнопки рассрочки
+            // Р•СЃР»Рё СЃСѓРјРјР° >= 9900, СѓР±РёСЂР°РµРј disabled СЃ РєРЅРѕРїРєРё СЂР°СЃСЃСЂРѕС‡РєРё
             if (totalSumm >= 9900) {
                 installmentBtn.classList.remove('disabled')
-                console.log('Класс disabled УБРАН')
+                console.log('РљР»Р°СЃСЃ disabled РЈР‘Р РђРќ')
             } else {
                 installmentBtn.classList.add('disabled')
-                console.log('Класс disabled ДОБАВЛЕН')
+                console.log('РљР»Р°СЃСЃ disabled Р”РћР‘РђР’Р›Р•Рќ')
             }
         }
 
-        // Вызываем функцию при загрузке страницы
+        // Р’С‹Р·С‹РІР°РµРј С„СѓРЅРєС†РёСЋ РїСЂРё Р·Р°РіСЂСѓР·РєРµ СЃС‚СЂР°РЅРёС†С‹
         updateInstallmentButton()
 
-        // Добавляем обработчики для обновления при изменении количества
+        // Р”РѕР±Р°РІР»СЏРµРј РѕР±СЂР°Р±РѕС‚С‡РёРєРё РґР»СЏ РѕР±РЅРѕРІР»РµРЅРёСЏ РїСЂРё РёР·РјРµРЅРµРЅРёРё РєРѕР»РёС‡РµСЃС‚РІР°
         document.addEventListener('input', (e) => {
             if (e.target.classList.contains('superForm__counter-input')) {
                 updateInstallmentButton()
             }
         })
 
-        // Добавляем обработчики для кнопок + и -
+        // Р”РѕР±Р°РІР»СЏРµРј РѕР±СЂР°Р±РѕС‚С‡РёРєРё РґР»СЏ РєРЅРѕРїРѕРє + Рё -
         document.addEventListener('click', (e) => {
             if (e.target.classList.contains('superForm__counter-button')) {
-                setTimeout(updateInstallmentButton, 10) // Небольшая задержка для обновления значения
+                setTimeout(updateInstallmentButton, 10) // РќРµР±РѕР»СЊС€Р°СЏ Р·Р°РґРµСЂР¶РєР° РґР»СЏ РѕР±РЅРѕРІР»РµРЅРёСЏ Р·РЅР°С‡РµРЅРёСЏ
             }
         })
 
-        // Автозаполнение полей организации по ИНН
+        // РђРІС‚РѕР·Р°РїРѕР»РЅРµРЅРёРµ РїРѕР»РµР№ РѕСЂРіР°РЅРёР·Р°С†РёРё РїРѕ РРќРќ
         document.addEventListener('input', (e) => {
             if (e.target.name === 'ORGANIZATION_INN') {
                 const inn = e.target.value.trim();
                 
-                // Запускаем автозаполнение только если ИНН состоит из 10 цифр
+                // Р—Р°РїСѓСЃРєР°РµРј Р°РІС‚РѕР·Р°РїРѕР»РЅРµРЅРёРµ С‚РѕР»СЊРєРѕ РµСЃР»Рё РРќРќ СЃРѕСЃС‚РѕРёС‚ РёР· 10 С†РёС„СЂ
                 if (inn.length === 10) {
                     fetchOrganizationData(inn);
                 }
             }
         });
 
-        // Функция для получения данных организации по ИНН
+        // Р¤СѓРЅРєС†РёСЏ РґР»СЏ РїРѕР»СѓС‡РµРЅРёСЏ РґР°РЅРЅС‹С… РѕСЂРіР°РЅРёР·Р°С†РёРё РїРѕ РРќРќ
         async function fetchOrganizationData(inn) {
             try {
-                // Здесь нужно указать ваш API ключ DaData
+                // Р—РґРµСЃСЊ РЅСѓР¶РЅРѕ СѓРєР°Р·Р°С‚СЊ РІР°С€ API РєР»СЋС‡ DaData
                 const response = await fetch('https://suggestions.dadata.ru/suggestions/api/4_1/rs/findById/party', {
                     method: 'POST',
                     headers: {
@@ -2496,13 +2497,13 @@
                     fillOrganizationFields(org);
                 }
             } catch (error) {
-                console.error('Ошибка при получении данных организации:', error);
+                console.error('РћС€РёР±РєР° РїСЂРё РїРѕР»СѓС‡РµРЅРёРё РґР°РЅРЅС‹С… РѕСЂРіР°РЅРёР·Р°С†РёРё:', error);
             }
         }
 
-        // Функция для заполнения полей формы
+        // Р¤СѓРЅРєС†РёСЏ РґР»СЏ Р·Р°РїРѕР»РЅРµРЅРёСЏ РїРѕР»РµР№ С„РѕСЂРјС‹
         function fillOrganizationFields(org) {
-            // Заполняем поля если данные есть
+            // Р—Р°РїРѕР»РЅСЏРµРј РїРѕР»СЏ РµСЃР»Рё РґР°РЅРЅС‹Рµ РµСЃС‚СЊ
             if (org.name?.full_with_opf) {
                 document.querySelector('[name="ORGANIZATION_NAME"]')?.setAttribute('value', org.name.full_with_opf);
             }
@@ -2553,10 +2554,10 @@
             }
         })
 
-        // Добавляем обработчики для кнопок + и -
+        // Р”РѕР±Р°РІР»СЏРµРј РѕР±СЂР°Р±РѕС‚С‡РёРєРё РґР»СЏ РєРЅРѕРїРѕРє + Рё -
         document.addEventListener('click', (e) => {
             if (e.target.classList.contains('superForm__counter-button')) {
-                setTimeout(updateInstallmentButton, 10) // Небольшая задержка для обновления значения
+                setTimeout(updateInstallmentButton, 10) // РќРµР±РѕР»СЊС€Р°СЏ Р·Р°РґРµСЂР¶РєР° РґР»СЏ РѕР±РЅРѕРІР»РµРЅРёСЏ Р·РЅР°С‡РµРЅРёСЏ
             }
         })
 
