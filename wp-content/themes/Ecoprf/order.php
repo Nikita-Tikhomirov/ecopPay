@@ -921,6 +921,13 @@
             align-items: flex-start;
             justify-content: flex-start;
         }
+
+        .superForm__step-2.distanceFormLearning > .superForm__buttonsWrap {
+            width: 100%;
+            border-top: 1px solid #0d5bd9;
+            padding-top: 14px;
+            margin-top: 18px;
+        }
     }
     .customSwitcher {
         width: min(100%, 440px);
