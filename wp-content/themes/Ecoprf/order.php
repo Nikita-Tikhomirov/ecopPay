@@ -1035,7 +1035,8 @@
             })
             input.addEventListener('blur', () => {
                 if (!isValidRussianPhone(input.value)) {
-                    input.value = input.value.trim() === '+7' ? '' : input.value
+                    // Clear incomplete mask fragments like "+7 (" so brackets never get stuck.
+                    input.value = ''
                 }
             })
 
@@ -2504,4 +2505,3 @@
 
 
 <?php get_footer(); ?>
-
