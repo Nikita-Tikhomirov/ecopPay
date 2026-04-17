@@ -614,11 +614,13 @@
         padding-right: 10px;
     }
 
-    /* Prevent iOS Safari auto-zoom on focus (happens when control font-size < 16px). */
-    .superForm input,
-    .superForm select,
-    .superForm textarea {
-        font-size: 16px;
+    /* iOS Safari only: prevent auto-zoom on focus when controls look "small". */
+    @supports (-webkit-touch-callout: none) {
+        .superForm input,
+        .superForm select,
+        .superForm textarea {
+            font-size: 16px;
+        }
     }
 
     .customSwitcher {
