@@ -1,0 +1,74 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 02.03.2025 10:20
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.11.2
+WORDPRESS:	6.6.2
+PHP INFO:	7.4.33 | SAPI: apache2handler
+SERVER:		Apache/2.4.55 (Unix) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (268435456 default) 
+MEMORY STACK: 14MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230522_edinyjczentrobucheniyaipere_24706d3853f6125f8657_20250302101950_database.sql
+SQL FILE SIZE: 81.09MB (85029769)
+SQL FILE TIME: 2025-03-02 10:20:08
+SQL RUNTIME: 5.51 сек.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/e/ecoprf/ecoprf.ru/public_html
+ARCHIVE FILE: 20230522_edinyjczentrobucheniyaipere_24706d3853f6125f8657_20250302101950_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	606.74MB
+STATS:	Dirs 1,778 | Files 19,472
+SQL ADDED: 20230522_edinyjczentrobucheniyaipere_24706d3853f6125f8657_20250302101950_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 21250
+    [filename] => /home/e/ecoprf/ecoprf.ru/public_html/wp-content/backups-dup-lite/tmp/20230522_edinyjczentrobucheniyaipere_24706d3853f6125f8657_20250302101950_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 21249
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 487.42MB
+ARCHIVE RUNTIME: 73.31 сек.
+MEMORY STACK: 20.69MB
+[PHP ERR][NOTICE] MSG:mysqli_query(): send of 6553 bytes failed with errno=32 Broken pipe [CODE:8|FILE:/home/e/ecoprf/ecoprf.ru/public_html/wp-includes/class-wpdb.php|LINE:2344]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, duplicator_package_build, DUP_Package->runZipBuild, DUP_Archive->build, DUP_Package->setStatus, DUP_Package->update, QM_DB->query, wpdb->query, wpdb->_do_query, mysqli_query, DUP_Handler::error, DUP_Handler::getMessage
+building installer
+ПРОВЕРКА АРХИВА НА ЦЕЛОСТНОСТЬ: ПРОЙДЕНА
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 81.09MB
+INSTALLER FILE: 73.5KB
+ARCHIVE FILE: 489.54MB 
+ОЖИДАЕМОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТОЛОГ: 21,250
+ФАКТИЧЕСКОЕ КОЛИЧЕСТВО ФАЙЛОВ/КАТАЛОГОВ: 21,249
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 127.87 сек.
+PEAK PHP MEMORY USED: 26.69MB
+DONE PROCESSING => 20230522_edinyjczentrobucheniyaipere 02.03.2025 10:22
+

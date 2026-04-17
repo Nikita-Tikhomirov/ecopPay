@@ -1,0 +1,752 @@
+
+25-08-2022 13:01:05 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:05 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/speczialist-po-podboru-personala.jpg) to a remote server (server_1).
+25-08-2022 13:01:06 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:06 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/speczialist-po-podboru-personala-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:06 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:06 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/speczialist-po-podboru-personala-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:06 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:06 [ecoprf.ru][debug] New queue created #271, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1747&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:119383,&quot;final_size&quot;:119383,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:103797,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421666}
+25-08-2022 13:01:06 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 73
+-------------------------------
+25-08-2022 13:01:07 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:07 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/speczialist-po-radiaczionnoj-bezopasnosti.jpg) to a remote server (server_1).
+25-08-2022 13:01:07 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:07 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/speczialist-po-radiaczionnoj-bezopasnosti-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:08 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:08 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/speczialist-po-radiaczionnoj-bezopasnosti-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:08 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:08 [ecoprf.ru][debug] New queue created #272, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1751&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:120692,&quot;final_size&quot;:120692,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:105130,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421668}
+25-08-2022 13:01:08 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 72
+-------------------------------
+25-08-2022 13:01:08 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:08 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/speczialist-po-ekologicheskoj-bezopasnosti-1.jpg) to a remote server (server_1).
+25-08-2022 13:01:09 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:09 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/speczialist-po-ekologicheskoj-bezopasnosti-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:09 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:10 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/speczialist-po-ekologicheskoj-bezopasnosti-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:10 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:10 [ecoprf.ru][debug] New queue created #273, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1753&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:122624,&quot;final_size&quot;:122624,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:106772,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421670}
+25-08-2022 13:01:10 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 71
+-------------------------------
+25-08-2022 13:01:10 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:10 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/surdopedagog-1.jpg) to a remote server (server_1).
+25-08-2022 13:01:11 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:11 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/surdopedagog-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:11 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/surdopedagog-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:11 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:12 [ecoprf.ru][debug] New queue created #274, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1757&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:119194,&quot;final_size&quot;:119193,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:108063,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421671}
+25-08-2022 13:01:12 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 70
+-------------------------------
+25-08-2022 13:01:12 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:12 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/trener-po-plavaniyu.jpg) to a remote server (server_1).
+25-08-2022 13:01:13 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:13 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/trener-po-plavaniyu-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:13 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:13 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/trener-po-plavaniyu-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:13 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:13 [ecoprf.ru][debug] New queue created #275, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1759&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118782,&quot;final_size&quot;:118782,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:103258,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421673}
+25-08-2022 13:01:13 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 69
+-------------------------------
+25-08-2022 13:01:14 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:14 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/tehnosfernaya-bezopasnost-1.jpg) to a remote server (server_1).
+25-08-2022 13:01:14 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:14 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/tehnosfernaya-bezopasnost-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:15 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:15 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/tehnosfernaya-bezopasnost-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:15 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:15 [ecoprf.ru][debug] New queue created #276, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1761&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:122238,&quot;final_size&quot;:122238,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:106339,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421675}
+25-08-2022 13:01:15 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 68
+-------------------------------
+25-08-2022 13:01:15 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:15 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/tiflopedagog.jpg) to a remote server (server_1).
+25-08-2022 13:01:16 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:16 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/tiflopedagog-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:16 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:16 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/tiflopedagog-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:17 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:17 [ecoprf.ru][debug] New queue created #277, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1763&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:124785,&quot;final_size&quot;:124758,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:108650,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421677}
+25-08-2022 13:01:17 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 67
+-------------------------------
+25-08-2022 13:01:17 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:17 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/trener-po-tanczam-1.jpg) to a remote server (server_1).
+25-08-2022 13:01:17 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:18 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/trener-po-tanczam-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:18 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:18 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/trener-po-tanczam-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:18 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:18 [ecoprf.ru][debug] New queue created #278, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1765&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:120339,&quot;final_size&quot;:120339,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:104709,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421678}
+25-08-2022 13:01:18 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 66
+-------------------------------
+25-08-2022 13:01:19 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:19 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/upravlenie-personalom.jpg) to a remote server (server_1).
+25-08-2022 13:01:19 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:19 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/upravlenie-personalom-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:19 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:20 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/upravlenie-personalom-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:20 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:20 [ecoprf.ru][debug] New queue created #279, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1767&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118747,&quot;final_size&quot;:118745,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:103210,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421680}
+25-08-2022 13:01:20 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 65
+-------------------------------
+25-08-2022 13:01:20 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:20 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/ekskursovod-gid.jpg) to a remote server (server_1).
+25-08-2022 13:01:21 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:21 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/ekskursovod-gid-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:21 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:21 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/ekskursovod-gid-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:21 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:21 [ecoprf.ru][debug] New queue created #280, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1769&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118297,&quot;final_size&quot;:118297,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:102916,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421681}
+25-08-2022 13:01:22 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 64
+-------------------------------
+25-08-2022 13:01:22 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:22 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/ekskursovod-po-prigorodam-spb.jpg) to a remote server (server_1).
+25-08-2022 13:01:22 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:22 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/ekskursovod-po-prigorodam-spb-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:23 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:23 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/ekskursovod-po-prigorodam-spb-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:23 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:23 [ecoprf.ru][debug] New queue created #281, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1771&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118871,&quot;final_size&quot;:118871,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:103514,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421683}
+25-08-2022 13:01:23 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 63
+-------------------------------
+25-08-2022 13:01:23 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:23 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/ekskursovod-po-rekam-i-kanalam-spb.jpg) to a remote server (server_1).
+25-08-2022 13:01:24 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:24 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/ekskursovod-po-rekam-i-kanalam-spb-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:24 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/09/ekskursovod-po-rekam-i-kanalam-spb-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:01:24 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:24 [ecoprf.ru][debug] New queue created #282, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1773&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:114303,&quot;final_size&quot;:114303,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:103601,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421684}
+25-08-2022 13:01:25 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 62
+-------------------------------
+25-08-2022 13:01:25 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:25 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/shveya-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:25 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:26 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/shveya-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:26 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:26 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/shveya-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:26 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:26 [ecoprf.ru][debug] New queue created #283, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1776&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195373,&quot;final_size&quot;:195128,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:172578,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421686}
+25-08-2022 13:01:26 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 61
+-------------------------------
+25-08-2022 13:01:26 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:26 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/shveya-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:27 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:27 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/shveya-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:27 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:27 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/shveya-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:01:27 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:28 [ecoprf.ru][debug] New queue created #284, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1777&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95189,&quot;final_size&quot;:95107,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:76869,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421688}
+25-08-2022 13:01:28 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 60
+-------------------------------
+25-08-2022 13:01:28 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:28 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/svarshhik-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:28 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:29 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/svarshhik-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:29 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:29 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/svarshhik-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:29 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:29 [ecoprf.ru][debug] New queue created #285, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1779&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:194467,&quot;final_size&quot;:194280,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:171719,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421689}
+25-08-2022 13:01:29 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 59
+-------------------------------
+25-08-2022 13:01:30 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:30 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/svarshhik-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:30 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:30 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/svarshhik-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:30 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:31 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/svarshhik-udo-300x206.jpg) to a remote server (server_1).
+25-08-2022 13:01:31 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:31 [ecoprf.ru][debug] New queue created #286, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1780&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95024,&quot;final_size&quot;:94979,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:77221,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421691}
+25-08-2022 13:01:31 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 58
+-------------------------------
+25-08-2022 13:01:31 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:31 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/portnoj-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:32 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:32 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/portnoj-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:32 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:32 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/portnoj-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:32 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:33 [ecoprf.ru][debug] New queue created #287, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1783&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:192773,&quot;final_size&quot;:192564,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:170056,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421693}
+25-08-2022 13:01:33 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 57
+-------------------------------
+25-08-2022 13:01:33 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:33 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/portnoj-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:33 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:34 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/portnoj-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:34 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:34 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/portnoj-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:01:34 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:34 [ecoprf.ru][debug] New queue created #288, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1784&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:97048,&quot;final_size&quot;:96940,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:78680,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421694}
+25-08-2022 13:01:34 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 56
+-------------------------------
+25-08-2022 13:01:34 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:34 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/povar-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:35 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:35 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/povar-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:35 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:36 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/povar-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:36 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:36 [ecoprf.ru][debug] New queue created #289, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1786&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:189570,&quot;final_size&quot;:189404,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:167322,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421696}
+25-08-2022 13:01:36 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 55
+-------------------------------
+25-08-2022 13:01:36 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:36 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/povar-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:37 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:37 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/povar-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:37 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/povar-udo-300x206.jpg) to a remote server (server_1).
+25-08-2022 13:01:37 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:37 [ecoprf.ru][debug] New queue created #290, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1787&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:89108,&quot;final_size&quot;:89076,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:76475,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421697}
+25-08-2022 13:01:37 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 54
+-------------------------------
+25-08-2022 13:01:38 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:38 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/malyar-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:38 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:39 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/malyar-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:39 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:39 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/malyar-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:39 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:39 [ecoprf.ru][debug] New queue created #291, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1789&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195779,&quot;final_size&quot;:195558,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:173099,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421699}
+25-08-2022 13:01:39 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 53
+-------------------------------
+25-08-2022 13:01:39 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:39 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/malyar-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:40 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:40 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/malyar-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:40 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:40 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/malyar-udo-300x206.jpg) to a remote server (server_1).
+25-08-2022 13:01:41 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:41 [ecoprf.ru][debug] New queue created #292, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1790&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:94796,&quot;final_size&quot;:94787,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:76825,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421701}
+25-08-2022 13:01:41 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 52
+-------------------------------
+25-08-2022 13:01:41 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:41 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/dezinfektor-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:41 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:42 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/dezinfektor-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:42 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/dezinfektor-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:42 [ecoprf.ru][debug] New queue created #293, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1793&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:172552,&quot;final_size&quot;:172552,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:0,\&quot;original_main_size\&quot;:172552,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421702}
+25-08-2022 13:01:42 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 51
+-------------------------------
+25-08-2022 13:01:43 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:43 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/dezinfektor-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:43 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:43 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/dezinfektor-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:43 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:43 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/dezinfektor-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:01:44 [ecoprf.ru][debug] New queue created #294, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1794&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:83280,&quot;final_size&quot;:83280,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:78044,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421704}
+25-08-2022 13:01:44 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 50
+-------------------------------
+25-08-2022 13:01:44 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:44 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/04/naladchik-kipia-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:44 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:45 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/04/naladchik-kipia-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:45 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/04/naladchik-kipia-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:45 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:45 [ecoprf.ru][debug] New queue created #295, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1797&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:190158,&quot;final_size&quot;:189905,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:173110,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421705}
+25-08-2022 13:01:45 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 49
+-------------------------------
+25-08-2022 13:01:46 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:46 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/04/naladchik-kipia-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:46 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:46 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/04/naladchik-kipia-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:46 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:46 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/04/naladchik-kipia-udo-300x206.jpg) to a remote server (server_1).
+25-08-2022 13:01:47 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:47 [ecoprf.ru][debug] New queue created #296, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1798&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:100833,&quot;final_size&quot;:100723,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:82105,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421707}
+25-08-2022 13:01:47 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 48
+-------------------------------
+25-08-2022 13:01:47 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:47 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/12/gazospasatel-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:47 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:48 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/12/gazospasatel-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:48 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:48 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/12/gazospasatel-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:48 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:49 [ecoprf.ru][debug] New queue created #297, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1801&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:192313,&quot;final_size&quot;:192154,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:169786,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421709}
+25-08-2022 13:01:49 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 47
+-------------------------------
+25-08-2022 13:01:49 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:49 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/12/gazospasatel-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:49 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:49 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/12/gazospasatel-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:50 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:50 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/12/gazospasatel-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:01:50 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:50 [ecoprf.ru][debug] New queue created #298, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1802&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:96957,&quot;final_size&quot;:96856,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:78524,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421710}
+25-08-2022 13:01:50 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+25-08-2022 13:01:50 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:50 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-spektralnogo-analiza-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:51 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:51 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-spektralnogo-analiza-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:51 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:51 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-spektralnogo-analiza-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:52 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:52 [ecoprf.ru][debug] New queue created #299, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1806&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:197666,&quot;final_size&quot;:197417,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:174434,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421712}
+25-08-2022 13:01:52 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+25-08-2022 13:01:52 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:52 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-spektralnogo-analiza-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:52 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:53 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-spektralnogo-analiza-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:53 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:53 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-spektralnogo-analiza-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:01:53 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:53 [ecoprf.ru][debug] New queue created #300, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1807&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:98946,&quot;final_size&quot;:98806,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:80143,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421713}
+25-08-2022 13:01:53 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+25-08-2022 13:01:54 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:54 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-himicheskogo-analiza-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:54 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:54 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-himicheskogo-analiza-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:55 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:55 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-himicheskogo-analiza-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:55 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:55 [ecoprf.ru][debug] New queue created #301, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1810&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195849,&quot;final_size&quot;:195594,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:172692,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421715}
+25-08-2022 13:01:55 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+25-08-2022 13:01:55 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:55 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-himicheskogo-analiza-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:56 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:56 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-himicheskogo-analiza-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:56 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:56 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/laborant-himicheskogo-analiza-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:01:56 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:57 [ecoprf.ru][debug] New queue created #302, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1811&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95007,&quot;final_size&quot;:94892,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:77544,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421717}
+25-08-2022 13:01:57 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+25-08-2022 13:01:57 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:57 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-sistem-ventilyaczii-kondiczionirovaniya-vozduha-pnevmotransporta-i-aspiraczii-sv.jpg) to a remote server (server_1).
+25-08-2022 13:01:57 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:58 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-sistem-ventilyaczii-kondiczionirovaniya-vozduha-pnevmotransporta-i-aspiraczii-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:01:58 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:58 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-sistem-ventilyaczii-kondiczionirovaniya-vozduha-pnevmotransporta-i-aspiraczii-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:01:58 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:59 [ecoprf.ru][debug] New queue created #303, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1814&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:202463,&quot;final_size&quot;:202173,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:178646,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421719}
+25-08-2022 13:01:59 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+25-08-2022 13:01:59 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:01:59 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-sistem-ventilyaczii-kondiczionirovaniya-vozduha-pnevmotransporta-i-aspiraczii-udo.jpg) to a remote server (server_1).
+25-08-2022 13:01:59 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:01:59 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-sistem-ventilyaczii-kondiczionirovaniya-vozduha-pnevmotransporta-i-aspiraczii-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:00 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:00 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-sistem-ventilyaczii-kondiczionirovaniya-vozduha-pnevmotransporta-i-aspiraczii-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:02:00 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:00 [ecoprf.ru][debug] New queue created #304, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1815&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:101434,&quot;final_size&quot;:101284,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:83120,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421720}
+25-08-2022 13:02:00 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+25-08-2022 13:02:00 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:00 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/operator-azs-sv.jpg) to a remote server (server_1).
+25-08-2022 13:02:01 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:01 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/operator-azs-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:01 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:01 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/operator-azs-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:02 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:02 [ecoprf.ru][debug] New queue created #305, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1818&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195568,&quot;final_size&quot;:195370,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:172800,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421722}
+25-08-2022 13:02:02 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+25-08-2022 13:02:02 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:02 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/operator-azs-udo.jpg) to a remote server (server_1).
+25-08-2022 13:02:02 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:03 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/operator-azs-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:03 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:03 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/operator-azs-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:02:03 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:03 [ecoprf.ru][debug] New queue created #306, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1819&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:96313,&quot;final_size&quot;:96227,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:77630,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421723}
+25-08-2022 13:02:03 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+25-08-2022 13:02:03 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:04 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/mladshij-vospitatel-sv.jpg) to a remote server (server_1).
+25-08-2022 13:02:04 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:04 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/mladshij-vospitatel-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:05 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:05 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/mladshij-vospitatel-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:05 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:05 [ecoprf.ru][debug] New queue created #307, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1823&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:196171,&quot;final_size&quot;:195929,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:173141,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421725}
+25-08-2022 13:02:05 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+25-08-2022 13:02:05 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:05 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/mladshij-vospitatel-udo.jpg) to a remote server (server_1).
+25-08-2022 13:02:06 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:06 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/mladshij-vospitatel-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:06 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:06 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/mladshij-vospitatel-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:02:06 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:07 [ecoprf.ru][debug] New queue created #308, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1824&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:97157,&quot;final_size&quot;:97060,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:78727,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421727}
+25-08-2022 13:02:07 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+25-08-2022 13:02:07 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:07 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/pomoshhnik-vospitatelya-sv.jpg) to a remote server (server_1).
+25-08-2022 13:02:07 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:08 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/pomoshhnik-vospitatelya-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:08 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:08 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/pomoshhnik-vospitatelya-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:08 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:08 [ecoprf.ru][debug] New queue created #309, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1827&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:191814,&quot;final_size&quot;:191621,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:169244,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421728}
+25-08-2022 13:02:08 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+25-08-2022 13:02:09 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:09 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/pomoshhnik-vospitatelya-udo.jpg) to a remote server (server_1).
+25-08-2022 13:02:09 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:09 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/pomoshhnik-vospitatelya-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:09 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:09 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/06/pomoshhnik-vospitatelya-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:02:10 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:10 [ecoprf.ru][debug] New queue created #310, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1828&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:96928,&quot;final_size&quot;:96834,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:78413,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421730}
+25-08-2022 13:02:10 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+25-08-2022 13:02:10 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:10 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/pressovshhik-loma-sv.jpg) to a remote server (server_1).
+25-08-2022 13:02:11 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:11 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/pressovshhik-loma-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:11 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:11 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/pressovshhik-loma-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:11 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:12 [ecoprf.ru][debug] New queue created #311, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1830&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:195833,&quot;final_size&quot;:195581,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:172619,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421732}
+25-08-2022 13:02:12 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+25-08-2022 13:02:12 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:12 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/pressovshhik-loma-udo.jpg) to a remote server (server_1).
+25-08-2022 13:02:12 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:13 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/pressovshhik-loma-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:13 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:13 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/08/pressovshhik-loma-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:02:13 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:13 [ecoprf.ru][debug] New queue created #312, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1831&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95521,&quot;final_size&quot;:95406,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:77972,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421733}
+25-08-2022 13:02:13 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+25-08-2022 13:02:13 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:13 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/03/elektromonter-ops-sv.jpg) to a remote server (server_1).
+25-08-2022 13:02:14 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:14 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/03/elektromonter-ops-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:15 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/03/elektromonter-ops-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:15 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:15 [ecoprf.ru][debug] New queue created #313, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1833&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:192474,&quot;final_size&quot;:192207,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:175139,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421735}
+25-08-2022 13:02:15 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+25-08-2022 13:02:15 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:15 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/03/elektromonter-ops-udo.jpg) to a remote server (server_1).
+25-08-2022 13:02:16 [ecoprf.ru][error] Error to optimize attachment (ID: #1834). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1100x753
+	-&gt; Relative path: 2021/03/elektromonter-ops-udo.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x205, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x701, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x526, MIME type: image/jpeg
+		-&gt; Type: post-thumbnail, size: 150x103, MIME type: image/jpeg
+
+25-08-2022 13:02:16 [ecoprf.ru][debug] New queue created #314, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1834&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421736}
+25-08-2022 13:02:16 [ecoprf.ru][error] Failed to process (url: https://ecoprf.ru/wp-content/uploads/2021/03/elektromonter-ops-udo.jpg, path: /home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/03/elektromonter-ops-udo.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+25-08-2022 13:02:16 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+25-08-2022 13:02:16 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:16 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-tehnologicheskih-truboprovodov-sv.jpg) to a remote server (server_1).
+25-08-2022 13:02:16 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:17 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-tehnologicheskih-truboprovodov-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:17 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:17 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-tehnologicheskih-truboprovodov-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:17 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:17 [ecoprf.ru][debug] New queue created #315, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1836&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:198516,&quot;final_size&quot;:198251,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:175112,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421737}
+25-08-2022 13:02:17 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+25-08-2022 13:02:18 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:18 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-tehnologicheskih-truboprovodov-udo.jpg) to a remote server (server_1).
+25-08-2022 13:02:18 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:18 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-tehnologicheskih-truboprovodov-udo-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:18 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:19 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2021/11/montazhnik-tehnologicheskih-truboprovodov-udo-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:02:19 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:19 [ecoprf.ru][debug] New queue created #316, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1837&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95307,&quot;final_size&quot;:95133,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:77720,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421739}
+25-08-2022 13:02:19 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+25-08-2022 13:02:19 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:19 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar.jpg) to a remote server (server_1).
+25-08-2022 13:02:20 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:20 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:20 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:20 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:20 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:21 [ecoprf.ru][debug] New queue created #317, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1843&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:192729,&quot;final_size&quot;:192473,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:170204,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421741}
+25-08-2022 13:02:21 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+25-08-2022 13:02:21 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:21 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-ud.jpg) to a remote server (server_1).
+25-08-2022 13:02:21 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:21 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-ud-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:22 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:22 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-ud-300x205.jpg) to a remote server (server_1).
+25-08-2022 13:02:22 [ecoprf.ru][debug] New queue created #318, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1844&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:81362,&quot;final_size&quot;:81362,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:76097,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421742}
+25-08-2022 13:02:22 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+25-08-2022 13:02:22 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:22 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-1.jpg) to a remote server (server_1).
+25-08-2022 13:02:23 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:23 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:23 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:23 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/stolyar-1-300x200.jpg) to a remote server (server_1).
+25-08-2022 13:02:23 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:23 [ecoprf.ru][debug] New queue created #319, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1848&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:44330,&quot;final_size&quot;:44297,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:27455,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421743}
+25-08-2022 13:02:23 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+25-08-2022 13:02:24 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:24 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/vneocherednaya-proverka-znanij-po-ohrane-truda.jpg) to a remote server (server_1).
+25-08-2022 13:02:24 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:24 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/vneocherednaya-proverka-znanij-po-ohrane-truda-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:24 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:24 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/06/vneocherednaya-proverka-znanij-po-ohrane-truda-300x200.jpg) to a remote server (server_1).
+25-08-2022 13:02:24 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:25 [ecoprf.ru][debug] New queue created #320, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1857&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:42311,&quot;final_size&quot;:42311,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:25685,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421745}
+25-08-2022 13:02:25 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+25-08-2022 13:02:25 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:25 [ecoprf.ru][info] Try to create backup directory. Backup dir: (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/wio_backup/2022/07)
+25-08-2022 13:02:25 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/proektirovanie-pozharnoj-signalizaczii.jpg) to a remote server (server_1).
+25-08-2022 13:02:25 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:25 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/proektirovanie-pozharnoj-signalizaczii-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:26 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:26 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/proektirovanie-pozharnoj-signalizaczii-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:26 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:26 [ecoprf.ru][debug] New queue created #321, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1881&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95481,&quot;final_size&quot;:94817,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:65141,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421746}
+25-08-2022 13:02:26 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+25-08-2022 13:02:26 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:26 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/instruktor-lfk.jpg) to a remote server (server_1).
+25-08-2022 13:02:27 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:27 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/instruktor-lfk-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:27 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:27 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/instruktor-lfk-300x200.jpg) to a remote server (server_1).
+25-08-2022 13:02:27 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:27 [ecoprf.ru][debug] New queue created #322, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1895&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:27007,&quot;final_size&quot;:27007,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:16093,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421747}
+25-08-2022 13:02:27 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+25-08-2022 13:02:28 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:28 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/lechebnaya-fizkultura-povyshenie-kvalifikaczii.jpg) to a remote server (server_1).
+25-08-2022 13:02:28 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:28 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/lechebnaya-fizkultura-povyshenie-kvalifikaczii-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:28 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:28 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/lechebnaya-fizkultura-povyshenie-kvalifikaczii-300x200.jpg) to a remote server (server_1).
+25-08-2022 13:02:28 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:29 [ecoprf.ru][debug] New queue created #323, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1898&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:24889,&quot;final_size&quot;:24889,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:14229,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421749}
+25-08-2022 13:02:29 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+25-08-2022 13:02:29 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:29 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/lechebnaya-fizkultura.jpg) to a remote server (server_1).
+25-08-2022 13:02:29 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:30 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/lechebnaya-fizkultura-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:30 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:30 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/lechebnaya-fizkultura-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:30 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:30 [ecoprf.ru][debug] New queue created #324, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1900&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:119605,&quot;final_size&quot;:119605,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:104840,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421750}
+25-08-2022 13:02:30 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+25-08-2022 13:02:30 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:30 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/instruktor-lfk-1.jpg) to a remote server (server_1).
+25-08-2022 13:02:31 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:31 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/instruktor-lfk-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:31 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:31 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/instruktor-lfk-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:31 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:32 [ecoprf.ru][debug] New queue created #325, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1903&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118900,&quot;final_size&quot;:118900,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:103564,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421752}
+25-08-2022 13:02:32 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+25-08-2022 13:02:32 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:32 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/metodist-obrazovatelnoj-organizaczii.jpg) to a remote server (server_1).
+25-08-2022 13:02:32 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:32 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/metodist-obrazovatelnoj-organizaczii-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:33 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:33 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/metodist-obrazovatelnoj-organizaczii-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:33 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:33 [ecoprf.ru][debug] New queue created #326, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1908&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:40493,&quot;final_size&quot;:40493,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:19322,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421753}
+25-08-2022 13:02:33 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+25-08-2022 13:02:33 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:33 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/metodist-obrazovatelnoj-organizaczii-1.jpg) to a remote server (server_1).
+25-08-2022 13:02:34 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:34 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/metodist-obrazovatelnoj-organizaczii-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:34 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:34 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/metodist-obrazovatelnoj-organizaczii-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:34 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:35 [ecoprf.ru][debug] New queue created #327, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1909&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:121857,&quot;final_size&quot;:121857,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:106214,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421755}
+25-08-2022 13:02:35 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+25-08-2022 13:02:35 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:35 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/raznoe-povyshenie-kvalifikaczii.jpg) to a remote server (server_1).
+25-08-2022 13:02:35 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:35 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/raznoe-povyshenie-kvalifikaczii-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:35 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:35 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/raznoe-povyshenie-kvalifikaczii-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:36 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:36 [ecoprf.ru][debug] New queue created #328, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1918&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:40242,&quot;final_size&quot;:40137,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:19325,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421756}
+25-08-2022 13:02:36 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+25-08-2022 13:02:36 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:36 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/sekretar-rukovoditelya.jpg) to a remote server (server_1).
+25-08-2022 13:02:36 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:37 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/sekretar-rukovoditelya-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:37 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:37 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/sekretar-rukovoditelya-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:37 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:37 [ecoprf.ru][debug] New queue created #329, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1940&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:48421,&quot;final_size&quot;:48312,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:23875,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421757}
+25-08-2022 13:02:37 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+25-08-2022 13:02:37 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:37 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/sekretar-rukovoditelya-1.jpg) to a remote server (server_1).
+25-08-2022 13:02:38 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:38 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/sekretar-rukovoditelya-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:38 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/sekretar-rukovoditelya-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:39 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:39 [ecoprf.ru][debug] New queue created #330, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1943&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:117923,&quot;final_size&quot;:117923,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:107010,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421759}
+25-08-2022 13:02:39 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+25-08-2022 13:02:39 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:39 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/speczialist-arhiva.jpg) to a remote server (server_1).
+25-08-2022 13:02:39 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:39 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/speczialist-arhiva-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:39 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:40 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/speczialist-arhiva-300x199.jpg) to a remote server (server_1).
+25-08-2022 13:02:40 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:40 [ecoprf.ru][debug] New queue created #331, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1950&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:66580,&quot;final_size&quot;:66303,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:41438,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421760}
+25-08-2022 13:02:40 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+25-08-2022 13:02:40 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:40 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/speczialist-arhiva-1.jpg) to a remote server (server_1).
+25-08-2022 13:02:41 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:41 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/speczialist-arhiva-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:41 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:41 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/speczialist-arhiva-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:41 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:42 [ecoprf.ru][debug] New queue created #332, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1953&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:117521,&quot;final_size&quot;:117521,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:102396,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421762}
+25-08-2022 13:02:42 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+25-08-2022 13:02:42 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:42 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-ud.jpg) to a remote server (server_1).
+25-08-2022 13:02:42 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:42 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-ud-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:43 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:43 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-ud-300x206.jpg) to a remote server (server_1).
+25-08-2022 13:02:43 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:43 [ecoprf.ru][debug] New queue created #333, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1962&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:95794,&quot;final_size&quot;:95694,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:77760,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421763}
+25-08-2022 13:02:43 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+25-08-2022 13:02:43 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:43 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-sv.jpg) to a remote server (server_1).
+25-08-2022 13:02:44 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:44 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-sv-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:44 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:44 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-sv-300x219.jpg) to a remote server (server_1).
+25-08-2022 13:02:45 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:45 [ecoprf.ru][debug] New queue created #334, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1963&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:191905,&quot;final_size&quot;:191691,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:169259,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421765}
+25-08-2022 13:02:45 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+25-08-2022 13:02:45 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:45 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik.jpg) to a remote server (server_1).
+25-08-2022 13:02:45 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:45 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:46 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:46 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/probootborshhik-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:46 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:46 [ecoprf.ru][debug] New queue created #335, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1965&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:63623,&quot;final_size&quot;:63587,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:40054,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421766}
+25-08-2022 13:02:46 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+25-08-2022 13:02:46 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:46 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/fitnes-trener.jpg) to a remote server (server_1).
+25-08-2022 13:02:47 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:47 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/fitnes-trener-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:47 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:47 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/fitnes-trener-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:47 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:47 [ecoprf.ru][debug] New queue created #336, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1968&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:41704,&quot;final_size&quot;:41525,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:20453,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421767}
+25-08-2022 13:02:48 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+25-08-2022 13:02:48 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:48 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/trener-po-fitnesu.jpg) to a remote server (server_1).
+25-08-2022 13:02:48 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:49 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/trener-po-fitnesu-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:49 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:49 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/trener-po-fitnesu-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:49 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:49 [ecoprf.ru][debug] New queue created #337, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1970&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:122241,&quot;final_size&quot;:122241,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:106510,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421769}
+25-08-2022 13:02:49 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+25-08-2022 13:02:49 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:49 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/prepodavatel-professionalnogo-obucheniya.jpg) to a remote server (server_1).
+25-08-2022 13:02:50 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:50 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/prepodavatel-professionalnogo-obucheniya-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:50 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:50 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/prepodavatel-professionalnogo-obucheniya-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:50 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:50 [ecoprf.ru][debug] New queue created #338, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1988&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:32296,&quot;final_size&quot;:32296,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:15959,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421770}
+25-08-2022 13:02:50 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+25-08-2022 13:02:51 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:51 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/prepodavatel-professionalnogo-obucheniya-1.jpg) to a remote server (server_1).
+25-08-2022 13:02:51 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:51 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/prepodavatel-professionalnogo-obucheniya-1-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:52 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:52 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/07/prepodavatel-professionalnogo-obucheniya-1-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:52 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:52 [ecoprf.ru][debug] New queue created #339, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;2001&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:120392,&quot;final_size&quot;:120392,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:104813,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421772}
+25-08-2022 13:02:52 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+25-08-2022 13:02:52 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:52 [ecoprf.ru][info] Try to create backup directory. Backup dir: (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/wio_backup/2022/08)
+25-08-2022 13:02:52 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodovatel-obzh.jpg) to a remote server (server_1).
+25-08-2022 13:02:52 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:53 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodovatel-obzh-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:53 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:53 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodovatel-obzh-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:53 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:53 [ecoprf.ru][debug] New queue created #340, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;2006&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:66655,&quot;final_size&quot;:66573,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:44005,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421773}
+25-08-2022 13:02:53 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+25-08-2022 13:02:54 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:54 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodavatel-obzh.jpg) to a remote server (server_1).
+25-08-2022 13:02:54 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:54 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodavatel-obzh-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:55 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:55 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodavatel-obzh-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:55 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:55 [ecoprf.ru][debug] New queue created #341, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;2008&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118334,&quot;final_size&quot;:118334,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:103159,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421775}
+25-08-2022 13:02:55 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+25-08-2022 13:02:55 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:55 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodavatel-vysshej-shkoly.jpg) to a remote server (server_1).
+25-08-2022 13:02:56 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:56 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodavatel-vysshej-shkoly-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:56 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:56 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodavatel-vysshej-shkoly-300x212.jpg) to a remote server (server_1).
+25-08-2022 13:02:56 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:56 [ecoprf.ru][debug] New queue created #342, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;2014&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:118853,&quot;final_size&quot;:118853,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:103570,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421776}
+25-08-2022 13:02:56 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+25-08-2022 13:02:57 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:57 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodovatel-vysshej-shkoly.jpg) to a remote server (server_1).
+25-08-2022 13:02:57 [ecoprf.ru][error] Error to optimize attachment (ID: #2020). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 427x427
+	-&gt; Relative path: 2022/08/prepodovatel-vysshej-shkoly.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: post-thumbnail, size: 150x150, MIME type: image/jpeg
+
+25-08-2022 13:02:57 [ecoprf.ru][debug] New queue created #343, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;2020&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421777}
+25-08-2022 13:02:57 [ecoprf.ru][error] Failed to process (url: https://ecoprf.ru/wp-content/uploads/2022/08/prepodovatel-vysshej-shkoly.jpg, path: /home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/prepodovatel-vysshej-shkoly.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+25-08-2022 13:02:57 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+25-08-2022 13:02:57 [ecoprf.ru][info] Start bulk optimization process! Scope: media-library
+25-08-2022 13:02:57 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/ohrana-truda-2022.jpg) to a remote server (server_1).
+25-08-2022 13:02:57 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:58 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/ohrana-truda-2022-150x150.jpg) to a remote server (server_1).
+25-08-2022 13:02:58 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:58 [ecoprf.ru][info] Preparing to upload a file (/home/e/ecoprf/ecoprf.ru/public_html/wp-content/uploads/2022/08/ohrana-truda-2022-300x300.jpg) to a remote server (server_1).
+25-08-2022 13:02:58 [ecoprf.ru][info] File successfully uploaded to remote server (server_1).
+25-08-2022 13:02:58 [ecoprf.ru][debug] New queue created #344, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;2120&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:33563,&quot;final_size&quot;:33375,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:17636,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661421778}
+25-08-2022 13:02:58 [ecoprf.ru][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+25-08-2022 13:35:55 [ecoprf.ru][info] Parent plugin start deactivation!
+25-08-2022 13:35:55 [ecoprf.ru][info] Parent plugin deactivation complete!
+-------------------------------

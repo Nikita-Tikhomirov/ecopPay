@@ -1,0 +1,344 @@
+2026-04-15 16:04:05 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Евгения Валерьевна Яркова
+    [phone] => +7 (981) 111-60-38
+    [email] => jane_yarkova@mail.ru
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Рассрочка
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Нутрициолог
+                    [price] => 15000
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Яркова Евгения Валерьевна
+                                    [email] => jane_yarkova@mail.ru
+                                    [birthdate] => 01.04.1984
+                                    [snils] => 10084829335
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-15 16:04:05 Сумма заказа: 15000 ₽
+2026-04-15 16:04:05 RRLLC HTTP code: 200
+2026-04-15 16:04:05 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/efe480d7cc3bba42e480feb286f3c654"}
+2026-04-15 16:04:05 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/efe480d7cc3bba42e480feb286f3c654
+)
+
+2026-04-16 04:23:50 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Александр Баландин
+    [phone] => +7 (965) 000-80-33
+    [email] => s87@bk.ru
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Онлайн-оплата
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Менеджмент в туризме
+                    [price] => 11900
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Кот вася
+                                    [email] => s87@bk.ru
+                                    [birthdate] => 02.03.1987
+                                    [snils] => 123456789
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-16 04:23:50 Сумма заказа: 11900 ₽
+2026-04-16 04:23:50 RRLLC HTTP code: 200
+2026-04-16 04:23:50 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/2d27df42b2bb0f908e49889b5748e178"}
+2026-04-16 04:23:50 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/2d27df42b2bb0f908e49889b5748e178
+)
+
+2026-04-16 04:40:10 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Александр Баландин
+    [phone] => +7 (965) 000-00-00
+    [email] => s87@bk.ru
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Онлайн-оплата
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Общие вопросы охраны труда и функционирования системы управления охраной труда (программа А)
+                    [price] => 1300
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Кот
+                                    [email] => s87@bk.ru
+                                    [birthdate] => 01.01.1987
+                                    [snils] => 123446777
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-16 04:40:10 Сумма заказа: 1300 ₽
+2026-04-16 04:40:10 RRLLC HTTP code: 200
+2026-04-16 04:40:10 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/a1a739566b824a48c96aefc7fefb38c5"}
+2026-04-16 04:40:10 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/a1a739566b824a48c96aefc7fefb38c5
+)
+
+2026-04-16 05:25:49 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Александр Баландин
+    [phone] => +7 (965) 845-45-45
+    [email] => s87@bk.ru
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Онлайн-оплата
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Вопросы профилактики терроризма
+                    [price] => 2400
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Овоарат
+                                    [email] => s87@bk.ru
+                                    [birthdate] => 01.01.1987
+                                    [snils] => 196366363738&3&33&
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-16 05:25:49 Сумма заказа: 2400 ₽
+2026-04-16 05:25:49 RRLLC HTTP code: 200
+2026-04-16 05:25:49 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/458eee8e71cf4f56ea48ec89396ed1e9"}
+2026-04-16 05:25:49 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/458eee8e71cf4f56ea48ec89396ed1e9
+)
+
+2026-04-16 06:34:17 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Баландина Юлия Николаевна
+    [phone] => +7 (960) 278-28-39
+    [email] => usavenkova@gmail.com
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Рассрочка
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Кадровое делопроизводство
+                    [price] => 10900
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Баландина Юлия Николаевна
+                                    [email] => usavenkova@gmail.com
+                                    [birthdate] => 23.03.1989
+                                    [snils] => 00000000000
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-16 06:34:17 Сумма заказа: 10900 ₽
+2026-04-16 06:34:17 RRLLC HTTP code: 200
+2026-04-16 06:34:17 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/97b3da49bcb55803801b0963a7f1a7f0"}
+2026-04-16 06:34:17 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/97b3da49bcb55803801b0963a7f1a7f0
+)
+
+2026-04-16 08:30:49 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Евгения Валерьевна Яркова
+    [phone] => +7 (981) 111-60-38
+    [email] => jane_yarkova@mail.ru
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Рассрочка
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Нутрициолог
+                    [price] => 15000
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Яркова Евгения Валерьевна
+                                    [email] => jane_yarkova@mail.ru
+                                    [birthdate] => 01.04.1984
+                                    [snils] => 10084829335
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-16 08:30:49 Сумма заказа: 15000 ₽
+2026-04-16 08:30:49 RRLLC HTTP code: 200
+2026-04-16 08:30:49 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/3cb6223e04bd87fac07e58f5efba680c"}
+2026-04-16 08:30:49 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/3cb6223e04bd87fac07e58f5efba680c
+)
+
+2026-04-16 09:24:07 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Светлана Швец
+    [phone] => +7 (911) 920-02-15
+    [email] => sv_shvets@mail.ru
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Рассрочка
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Нутрициолог
+                    [price] => 15000
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Швец Светлана Геннадьевна 
+                                    [email] => sv_shvets@mail.ru
+                                    [birthdate] => 01.07.1972
+                                    [snils] => 068-921-257-94
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-16 09:24:07 Сумма заказа: 15000 ₽
+2026-04-16 09:24:07 RRLLC HTTP code: 200
+2026-04-16 09:24:07 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/618398cd5883594b36c3ead2ddb163c1"}
+2026-04-16 09:24:07 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/618398cd5883594b36c3ead2ddb163c1
+)
+
+2026-04-16 09:27:13 POST data: Array
+(
+    [formid] => quiz_pay
+    [fio] => Светлана Швец
+    [phone] => +7 (911) 920-02-15
+    [email] => sv_shvets@mail.ru
+    [learning_form] => Дистанционная
+    [page] => https://ecoprf.ru/korzina/
+    [payment_type] => Онлайн-оплата
+    [courses] => Array
+        (
+            [0] => Array
+                (
+                    [title] => Нутрициолог
+                    [price] => 15000
+                    [students] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [name] => Швец Светлана Геннадьевна 
+                                    [email] => sv_shvets@mail.ru
+                                    [birthdate] => 01.07.1972
+                                    [snils] => 068-921-257-94
+                                    [education] => 2
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2026-04-16 09:27:13 Сумма заказа: 15000 ₽
+2026-04-16 09:27:13 RRLLC HTTP code: 200
+2026-04-16 09:27:13 RRLLC raw response: {"status":"new","link":"https://pay.rrllc.ru/pay/42afb27806ab4a58ecee3c715b514b62"}
+2026-04-16 09:27:13 RRLLC parsed response: Array
+(
+    [status] => new
+    [link] => https://pay.rrllc.ru/pay/42afb27806ab4a58ecee3c715b514b62
+)
+

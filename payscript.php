@@ -40,8 +40,8 @@ add_action('phpmailer_init', function ($phpmailer) {
     $phpmailer->setFrom('ecoprf@yandex.ru', 'ecoprf.ru');
 });
 
-$login = 'test-ecoprf';
-$password = 'sIQFbEbDUvENPOxyFXbWzrkV';
+$login = 'battle-ecoprf';
+$password = 'SpgmpAijJpfGavgsvoKJLOjF';
 $url = 'https://pay.rrllc.ru/api/v2/createOrder';
 
 log_rrllc('POST data: ' . print_r($_POST, true));

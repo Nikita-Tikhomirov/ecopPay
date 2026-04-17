@@ -35,8 +35,8 @@ add_action('phpmailer_init', function ($phpmailer) {
 });
 
 
-if (($_POST['formid'] ?? '') !== 'quiz_manager') {
-    echo json_encode(['success' => false, 'message' => 'Неверный formid']);
+if (($_POST['formid'] ?? '') !== 'quiz_invoice') {
+    echo json_encode(['success' => false]);
     exit;
 }
 
@@ -45,55 +45,84 @@ if (($_POST['formid'] ?? '') !== 'quiz_manager') {
    ОСНОВНЫЕ ДАННЫЕ
 ========================= */
 
-$fio   = trim($_POST['fio'] ?? '');
-$phone = trim($_POST['phone'] ?? '');
-$email = trim($_POST['email'] ?? '');
-$form  = trim($_POST['learning_form'] ?? '');
-
+$fio   = $_POST['fio'] ?? '';
+$phone = $_POST['phone'] ?? '';
+$email = $_POST['email'] ?? '';
+$form  = $_POST['learning_form'] ?? '';
+$page  = $_POST['page'] ?? '';
 
 /* =========================
-   КУРСЫ
+   ОРГАНИЗАЦИЯ
 ========================= */
+
+$org = [
+    'ИНН' => $_POST['ORGANIZATION_INN'] ?? '',
+    'КПП' => $_POST['ORGANIZATION_KPP'] ?? '',
+    'Юр. адрес' => $_POST['ORGANIZATION_UR_ADDR'] ?? '',
+    'Факт. адрес' => $_POST['ORGANIZATION_FACT_ADDR'] ?? '',
+    'Телефон' => $_POST['ORGANIZATION_PHONE'] ?? '',
+    'Email' => $_POST['ORGANIZATION_EMAIL'] ?? '',
+    'Р/С' => $_POST['ORGANIZATION_RS'] ?? '',
+    'К/С' => $_POST['ORGANIZATION_KS'] ?? '',
+    'Банк' => $_POST['ORGANIZATION_BANK'] ?? '',
+    'БИК' => $_POST['ORGANIZATION_BIK'] ?? '',
+];
+
+$signer = [
+    'ФИО' => $_POST['SIGNER_FIO'] ?? '',
+    'Должность' => $_POST['SIGNER_POSITION'] ?? '',
+    'Основание' => $_POST['SIGNER_BASE'] ?? '',
+];
 
 $courses = $_POST['courses'] ?? [];
 
 
 /* =========================
-   ФОРМИРУЕМ ПИСЬМО
+   ПИСЬМО
 ========================= */
 
-$message = "
-<html>
-<body>
-<h2>Оформление заявки на обучение (требуется связь менеджера)</h2>
+$message = "<html><body>";
 
+$message .= "<h2>Заявка на оплату по счету</h2>";
+
+$message .= "
 <p><b>ФИО:</b> {$fio}</p>
 <p><b>Телефон:</b> {$phone}</p>
 <p><b>Email:</b> {$email}</p>
 <p><b>Форма обучения:</b> {$form}</p>
-
-
+<p><b>Страница:</b> {$page}</p>
 <hr>
-<h3>Курсы и слушатели</h3>
+<h3>Реквизиты организации</h3>
 ";
 
+foreach ($org as $k => $v) {
+    $message .= "<p><b>{$k}:</b> " . esc_html($v) . "</p>";
+}
 
-foreach ($courses as $courseIndex => $course) {
+$message .= "<hr><h3>Подписант</h3>";
 
-    $title = esc_html($course['title'] ?? 'Без названия');
+foreach ($signer as $k => $v) {
+    $message .= "<p><b>{$k}:</b> " . esc_html($v) . "</p>";
+}
 
-    $message .= "<h4>Курс: {$title}</h4>";
+$message .= "<hr><h3>Курсы и слушатели</h3>";
+
+foreach ($courses as $course) {
+
+    $title = esc_html($course['title'] ?? '');
+
+    $message .= "<h4>{$title}</h4>";
 
     if (!empty($course['students'])) {
 
         $message .= "<table border='1' cellpadding='6' cellspacing='0'>
-            <tr>
-                <th>ФИО</th>
-                <th>Дата рождения</th>
-                <th>СНИЛС</th>
-                <th>Образование</th>
-                <th>Email</th>
-            </tr>";
+        <tr>
+            <th>ФИО</th>
+            <th>Дата рождения</th>
+            <th>СНИЛС</th>
+            <th>Образование</th>
+            <th>Email</th>
+        </tr>";
 
         foreach ($course['students'] as $student) {
 
@@ -113,17 +142,10 @@ foreach ($courses as $courseIndex => $course) {
 $message .= "</body></html>";
 
 
-/* =========================
-   ОТПРАВКА
-========================= */
-
-$to = 'dir@ecoprf.ru';
-$subject = 'Оформление заявки на обучение (требуется связь менеджера)';
-
 $headers = ['Content-Type: text/html; charset=UTF-8'];
 
-if (wp_mail($to, $subject, $message, $headers)) {
+if (wp_mail('dir@ecoprf.ru', 'Оплата по счету', $message, $headers)) {
     echo json_encode(['success' => true]);
 } else {
-    echo json_encode(['success' => false, 'message' => 'Ошибка отправки']);
+    echo json_encode(['success' => false]);
 }

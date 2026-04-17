@@ -1,0 +1,36 @@
+HIT 2026-04-15 19:04:39
+
+
+==== 2026-04-15 16:04:39 ====
+RAW:
+{"id":"ecoprf_1776269045_69dfb6f52a754","type":"order_changed","newStatus":"authorized","salt":"udBKKLSbCZyOsxhhQSVaIdidjhxqKERgPxckNotHLwCPlOFLtqYCMvnrewhzdHLo","sign":"fa860317c4459ed5290f73b26e85bd66"}
+
+PARSED:
+Array
+(
+    [id] => ecoprf_1776269045_69dfb6f52a754
+    [type] => order_changed
+    [newStatus] => authorized
+    [salt] => udBKKLSbCZyOsxhhQSVaIdidjhxqKERgPxckNotHLwCPlOFLtqYCMvnrewhzdHLo
+    [sign] => fa860317c4459ed5290f73b26e85bd66
+)
+
+CLIENT EMAIL SENT to jane_yarkova@mail.ru
+HIT 2026-04-16 07:43:41
+
+
+==== 2026-04-16 04:43:41 ====
+RAW:
+{"id":"ecoprf_1776314410_69e0682a0689b","type":"order_changed","newStatus":"authorized_all","salt":"xSbTuLOocuHhDyuXJocfJpDBjmdYmDliAHBjFuAtqLtxTMASyANxPEDtoLyDmMfA","sign":"2b65032cd0751318f3a134dd6eb6377c"}
+
+PARSED:
+Array
+(
+    [id] => ecoprf_1776314410_69e0682a0689b
+    [type] => order_changed
+    [newStatus] => authorized_all
+    [salt] => xSbTuLOocuHhDyuXJocfJpDBjmdYmDliAHBjFuAtqLtxTMASyANxPEDtoLyDmMfA
+    [sign] => 2b65032cd0751318f3a134dd6eb6377c
+)
+
+CLIENT EMAIL SENT to s87@bk.ru

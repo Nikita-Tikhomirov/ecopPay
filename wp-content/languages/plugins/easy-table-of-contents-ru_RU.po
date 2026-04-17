@@ -1,0 +1,977 @@
+# Translation of Plugins - Easy Table of Contents - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Easy Table of Contents - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-09 08:25:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Easy Table of Contents - Stable (latest release)\n"
+
+#: includes/class-eztoc-widget.php:512 includes/class-eztoc-widget.php:545
+#: includes/class-eztoc-widgetsticky.php:649
+#: includes/class-eztoc-widgetsticky.php:682
+#: includes/class-eztoc-widgetsticky.php:766
+#: includes/class-eztoc-widgetsticky.php:780
+#: includes/class-eztoc-widgetsticky.php:800
+msgid "%"
+msgstr "%"
+
+#: includes/class-eztoc-widgetsticky.php:759
+msgid "Sidebar Width"
+msgstr "Ширина боковой панели"
+
+#: includes/inc.admin-options-page.php:271
+msgid "Reset"
+msgstr "Сброс"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: easy-table-of-contents.php
+msgid "https://tocwp.com/"
+msgstr "https://tocwp.com/"
+
+#: includes/inc.admin-options-page.php:670
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: includes/inc.admin-options-page.php:43
+msgid "License"
+msgstr "Лицензия"
+
+#: includes/inc.admin-options-page.php:27
+msgid "Help & Support"
+msgstr "Помощь и поддержка"
+
+#: includes/inc.admin-options-page.php:292
+#: includes/inc.admin-options-page.php:664
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/inc.admin-options-page.php:688
+msgid "(Save $59)"
+msgstr "(Распродажа $59)"
+
+#: includes/inc.admin-options-page.php:693
+msgid "Pro Features"
+msgstr "Pro функции"
+
+#: includes/inc.admin-options-page.php:694
+#: includes/inc.admin-options-page.php:709
+#: includes/inc.admin-options-page.php:725
+#: includes/inc.admin-options-page.php:740
+#: includes/inc.admin-options-page.php:755
+#: includes/inc.admin-options-page.php:770
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: includes/inc.admin-options-page.php:703
+msgid "(Save $79)"
+msgstr "(Распродажа $79)"
+
+#: includes/class-eztoc-option.php:520 includes/class-eztoc-option.php:1618
+#: includes/class-eztoc-option.php:1634
+msgid "Auto"
+msgstr "Авто"
+
+#: includes/class-eztoc-option.php:1631
+msgid "Height"
+msgstr "Высота"
+
+#: includes/class-eztoc-option.php:1641
+msgid "Custom Height"
+msgstr "Пользовательская высота"
+
+#: includes/class-eztoc-option.php:563
+msgid "Right to Left (RTL)"
+msgstr "Справа налево (RTL)"
+
+#: includes/class-eztoc-option.php:1785
+msgid "Circle"
+msgstr "Круг"
+
+#: includes/class-eztoc-option.php:1786
+msgid "Square"
+msgstr "Квадрат"
+
+#: includes/class-eztoc-option.php:1819
+msgid "Upper Roman"
+msgstr "Заглавные римские буквы"
+
+#: includes/class-eztoc-option.php:1820
+msgid "Lower Roman"
+msgstr "Строчные римские буквы"
+
+#: includes/class-eztoc-option.php:1821
+msgid "Lower Greek"
+msgstr "Строчные греческие буквы"
+
+#: includes/class-eztoc-option.php:1824
+msgid "Armenian"
+msgstr "Армянский"
+
+#: includes/class-eztoc-option.php:1826
+msgid "Arabic"
+msgstr "Арабский"
+
+#: includes/class-eztoc-option.php:1827
+msgid "Bengali"
+msgstr "Бенгальский"
+
+#: includes/class-eztoc-option.php:1833
+msgid "Georgian"
+msgstr "Грузинский"
+
+#: includes/class-eztoc-option.php:1834
+msgid "Gujarati"
+msgstr "Гуджарати"
+
+#: includes/class-eztoc-option.php:1835
+msgid "Gurmukhi"
+msgstr "Гурмукхи"
+
+#: includes/class-eztoc-option.php:1836
+msgid "Hebrew"
+msgstr "Иврит"
+
+#: includes/class-eztoc-option.php:1848
+msgid "Malayalam"
+msgstr "Малайяламский"
+
+#: includes/class-eztoc-option.php:1849
+msgid "Mongolian"
+msgstr "Монгольский"
+
+#: includes/class-eztoc-option.php:1851
+msgid "Oriya"
+msgstr "Орийский"
+
+#: includes/class-eztoc-option.php:1852
+msgid "Persian"
+msgstr "Персидский"
+
+#: includes/class-eztoc-option.php:1855
+msgid "Tamil"
+msgstr "Тамильский"
+
+#: includes/class-eztoc-option.php:1856
+msgid "Telugu"
+msgstr "Телугу"
+
+#: includes/class-eztoc-option.php:1857
+msgid "Thai"
+msgstr "Тайский"
+
+#: includes/class-eztoc-option.php:1858
+msgid "Tibetan"
+msgstr "Тибетский"
+
+#: includes/class-eztoc-option.php:1863
+msgid "Urdu"
+msgstr "Урду"
+
+#: includes/inc.admin-options-page.php:13
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: includes/inc.admin-options-page.php:23
+msgid "Free vs PRO"
+msgstr "Бесплатная или платная"
+
+#: includes/inc.admin-options-page.php:29
+msgid "UPGRADE to PRO"
+msgstr "Обновиться до Pro"
+
+#: includes/inc.admin-options-page.php:82
+#: includes/inc.admin-options-page.php:146
+#: includes/inc.admin-options-page.php:289
+#: includes/inc.admin-options-page.php:444
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: includes/inc.admin-options-page.php:281
+#: includes/inc.admin-options-page.php:301
+msgid "Technical Support"
+msgstr "Техническая поддержка"
+
+#: includes/inc.admin-options-page.php:285
+#: includes/inc.admin-options-page.php:357
+msgid "How to Use"
+msgstr "Как этим пользоваться"
+
+#: includes/inc.admin-options-page.php:309
+msgid "Email"
+msgstr "Email"
+
+#: includes/inc.admin-options-page.php:313
+msgid "Enter your Email"
+msgstr "Введите ваш email адрес"
+
+#: includes/inc.admin-options-page.php:318
+msgid "Query"
+msgstr "Запрос"
+
+#: includes/inc.admin-options-page.php:333
+msgid "Type"
+msgstr "Тип"
+
+#: includes/inc.admin-options-page.php:340
+msgid "Free"
+msgstr "Бесплатно"
+
+#: includes/inc.admin-options-page.php:337
+msgid "Paid"
+msgstr "Платно"
+
+#: includes/inc.admin-options-page.php:463
+msgid "ez_toc_before"
+msgstr "ez_toc_before"
+
+#: includes/inc.admin-options-page.php:464
+msgid "ez_toc_after"
+msgstr "ez_toc_after"
+
+#: includes/inc.admin-options-page.php:465
+msgid "ez_toc_sticky_toggle_before"
+msgstr "ez_toc_sticky_toggle_before"
+
+#: includes/inc.admin-options-page.php:466
+msgid "ez_toc_sticky_toggle_after"
+msgstr "ez_toc_sticky_toggle_after"
+
+#: includes/inc.admin-options-page.php:467
+msgid "ez_toc_before_widget_container"
+msgstr "ez_toc_before_widget_container"
+
+#: includes/inc.admin-options-page.php:468
+msgid "ez_toc_before_widget"
+msgstr "ez_toc_before_widget"
+
+#: includes/inc.admin-options-page.php:469
+msgid "ez_toc_after_widget_container"
+msgstr "ez_toc_after_widget_container"
+
+#: includes/inc.admin-options-page.php:470
+msgid "ez_toc_after_widget"
+msgstr "ez_toc_after_widget"
+
+#: includes/inc.admin-options-page.php:513
+msgid "Developer"
+msgstr "Разработчик"
+
+#: includes/inc.admin-options-page.php:556
+msgid "FREE"
+msgstr "Бесплатно"
+
+#: includes/inc.admin-options-page.php:569
+msgid "PRO"
+msgstr "Платно"
+
+#: includes/inc.admin-options-page.php:441
+msgid "You can visit this link "
+msgstr "Вы можете перейти по этой ссылке "
+
+#: includes/class-eztoc-option.php:1832
+msgid "Ethiopic"
+msgstr "Эфиопский"
+
+#: includes/class-eztoc-option.php:1838
+msgid "Hiragana-Iroha"
+msgstr "Хирагана-Ироха"
+
+#: includes/inc.admin-options-page.php:441
+msgid "More Documentation"
+msgstr "Больше документации."
+
+#: includes/inc.admin-options-page.php:716
+msgid "WEBMASTER"
+msgstr "ВЕБМАСТЕР"
+
+#: includes/inc.admin-options-page.php:719
+msgid "(Save $99)"
+msgstr "(Сэкономьте $99)"
+
+#: includes/class-eztoc-admin.php:298 includes/class-eztoc-option.php:326
+msgid "After first paragraph"
+msgstr "После первого абзаца"
+
+#: includes/deactivate-feedback.php:18
+msgid "It is only temporary"
+msgstr "Это временно"
+
+#: includes/deactivate-feedback.php:20
+msgid "I miss a feature"
+msgstr "Мне не хватает функциональности"
+
+#: includes/deactivate-feedback.php:22
+msgid "Technical Issue"
+msgstr "Технический вопрос"
+
+#: includes/deactivate-feedback.php:23
+msgid "Can we help? Please describe your problem"
+msgstr "Можем ли мы помочь? Опишите вашу проблему"
+
+#: includes/deactivate-feedback.php:24
+msgid "I switched to another plugin"
+msgstr "Я выбрал другой плагин"
+
+#: includes/deactivate-feedback.php:26
+msgid "Other reason"
+msgstr "Другая причина"
+
+#: includes/deactivate-feedback.php:27
+msgid "Please specify, if possible"
+msgstr "Пожалуйста, укажите, если возможно"
+
+#: includes/deactivate-feedback.php:36
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Если у вас есть минутка, сообщите нам, почему вы деактивируете:"
+
+#: includes/deactivate-feedback.php:48
+msgid "Submit & Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: includes/deactivate-feedback.php:49
+msgid "Only Deactivate"
+msgstr "Только деактивировать"
+
+#: includes/deactivate-feedback.php:50
+msgid "Don't deactivate"
+msgstr "Не деактивировать"
+
+#: includes/class-eztoc-pointers.php:64
+msgid "Do you want the latest update on"
+msgstr "Вы хотите последнее обновление на"
+
+#: includes/class-eztoc-pointers.php:60
+msgid "No Thanks"
+msgstr "Нет, спасибо"
+
+#: includes/class-eztoc-option.php:1787
+msgid "Hyphen"
+msgstr "Дефис"
+
+#: includes/class-eztoc-option.php:835
+msgid "Inline CSS"
+msgstr "Встроенный CSS"
+
+#: includes/class-eztoc-option.php:675
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: includes/class-eztoc-admin.php:79
+msgid " Support"
+msgstr " Поддержка"
+
+#: includes/class-eztoc-admin.php:81
+msgid " Website"
+msgstr " Сайт"
+
+#: includes/class-eztoc-admin.php:420 includes/class-eztoc-option.php:547
+#: includes/class-eztoc-option.php:1598
+msgid "Alignment"
+msgstr "Выравнивание"
+
+#: includes/inc.admin-options-page.php:18
+#: includes/inc.admin-options-page.php:255
+msgid "PRO Settings"
+msgstr "Настройки Pro"
+
+#: includes/inc.admin-options-page.php:545
+#: includes/inc.admin-options-page.php:691
+#: includes/inc.admin-options-page.php:706
+#: includes/inc.admin-options-page.php:722
+#: includes/inc.admin-options-page.php:737
+msgid "Tech Support"
+msgstr "Техническая поддержка"
+
+#: includes/inc.admin-options-page.php:546
+msgid "Get private ticketing help from our full-time technical staff & developers who helps you with the technical issues."
+msgstr "Получите частную помощь по тикетам от нашего штатного технического персонала и разработчиков, которые помогут вам в решении технических вопросов."
+
+#: includes/inc.admin-options-page.php:551
+msgid "Compare Pro vs. Free Version"
+msgstr "Сравните Pro с бесплатной версией"
+
+#: includes/inc.admin-options-page.php:552
+msgid "See what you'll get with the professional version"
+msgstr "Посмотрите, что вы получите в профессиональной версии"
+
+#: includes/inc.admin-options-page.php:559
+msgid "Continious Development"
+msgstr "Непрерывное развитие"
+
+#: includes/inc.admin-options-page.php:560
+msgid "We take bug reports and feature requests seriously. We’re continiously developing &amp; improve this product for last 2 years with passion and love."
+msgstr "Мы серьезно относимся к сообщениям об ошибках и запросам о возможностях. Мы непрерывно развиваем и улучшаем этот продукт в течение последних 2 лет со страстью и любовью."
+
+#: includes/inc.admin-options-page.php:563
+msgid "50+ Features"
+msgstr "Более 50 функций"
+
+#: includes/inc.admin-options-page.php:564
+msgid "We're constantly expanding the plugin and make it more useful. We have wide variety of features which will fit any use-case."
+msgstr "Мы постоянно расширяем плагин и делаем его более полезным. У нас есть широкий спектр функций, которые подойдут для любого случая использования."
+
+#: includes/inc.admin-options-page.php:571
+msgid "Everything in Free, and:"
+msgstr "Все бесплатно, и:"
+
+#: includes/inc.admin-options-page.php:577
+msgid "Gutenberg Block"
+msgstr "Gutenberg-блок"
+
+#: includes/inc.admin-options-page.php:585
+msgid "Elementor Widget"
+msgstr "Виджет Elementor"
+
+#: includes/class-eztoc-admin.php:80
+msgid " Upgrade"
+msgstr " Обновление"
+
+#: includes/class-eztoc-option.php:460
+msgid "JavaScript (default)"
+msgstr "JavaScript (по умолчанию)"
+
+#: includes/class-eztoc-admin.php:430 includes/class-eztoc-option.php:553
+msgid "Center"
+msgstr "По центру"
+
+#: includes/inc.admin-options-page.php:347
+msgid "Send Support Request"
+msgstr "Отправить запрос поддержки"
+
+#: includes/inc.admin-options-page.php:530
+msgid "UPGRADE to PRO Version"
+msgstr "Обновление до версии Pro"
+
+#: includes/inc.admin-options-page.php:532
+msgid "Purchase Now"
+msgstr "Купить сейчас"
+
+#: includes/inc.admin-options-page.php:537
+msgid "Premium Features"
+msgstr "Премиум-функции"
+
+#: includes/inc.admin-options-page.php:541
+msgid "Continuous Innovation"
+msgstr "Непрерывные инновации"
+
+#: includes/inc.admin-options-page.php:542
+msgid "We are planning to continiously build premium features and release them. We have a roadmap and we listen to our customers to turn their feedback into reality."
+msgstr "Мы планируем постоянно создавать и выпускать премиум-функции. У нас есть дорожная карта, и мы прислушиваемся к нашим клиентам, чтобы воплотить их отзывы в реальность."
+
+#. Author of the plugin
+#: easy-table-of-contents.php
+msgid "Magazine3"
+msgstr "Magazine3"
+
+#: includes/inc.admin-options-page.php:352
+msgid "Message not sent. please check your network connection"
+msgstr "Сообщение не отправлено. Пожалуйста, проверьте подключение к сети"
+
+#: includes/inc.admin-options-page.php:351
+msgid "Message sent successfully, Please wait we will get back to you shortly"
+msgstr "Сообщение успешно отправлено, пожалуйста, подождите, мы свяжемся с вами в ближайшее время"
+
+#: includes/class-eztoc-option.php:895
+msgid "Mobile Smooth Scroll Offset"
+msgstr "Смещение плавной прокрутки на мобильном"
+
+#: includes/class-eztoc-option.php:896
+msgid "This provides the same function as the Smooth Scroll Offset option above but applied when the user is visiting your site on a mobile device."
+msgstr "Аналогично параметру смещение плавной прокрутки, но применяется когда пользователь заходит на сайт с мобильного устройства."
+
+#: includes/class-eztoc-option.php:629 includes/class-eztoc-widget.php:520
+#: includes/class-eztoc-widgetsticky.php:657
+msgid "Title Font Weight"
+msgstr "Начертание шрифта заголовка"
+
+#: includes/class-eztoc-option.php:623 includes/class-eztoc-widget.php:508
+#: includes/class-eztoc-widgetsticky.php:645
+msgid "Title Font Size"
+msgstr "Размер шрифта заголовка"
+
+#: includes/class-eztoc-option.php:638 includes/class-eztoc-option.php:661
+msgid "Bold"
+msgstr "Жирный"
+
+#: includes/class-eztoc-option.php:637 includes/class-eztoc-option.php:660
+msgid "Semi Bold"
+msgstr "Полужирный"
+
+#: includes/class-eztoc-option.php:636 includes/class-eztoc-option.php:659
+msgid "Medium"
+msgstr "Средний"
+
+#: includes/class-eztoc-option.php:635 includes/class-eztoc-option.php:658
+msgid "Normal"
+msgstr "Обычный"
+
+#: includes/class-eztoc-option.php:634 includes/class-eztoc-option.php:657
+msgid "Light"
+msgstr "Легкий"
+
+#: includes/class-eztoc-option.php:632 includes/class-eztoc-option.php:655
+msgid "Thin"
+msgstr "Тонкий"
+
+#: includes/class-eztoc-option.php:640 includes/class-eztoc-option.php:663
+msgid "Heavy"
+msgstr "Толстый"
+
+#: includes/class-eztoc-option.php:639 includes/class-eztoc-option.php:662
+msgid "Extra Bold"
+msgstr "Сверхжирный"
+
+#: includes/class-eztoc-option.php:633 includes/class-eztoc-option.php:656
+msgid "Extra Light"
+msgstr "Сверхсветлый"
+
+#: includes/class-eztoc-admin.php:78 includes/inc.admin-options-page.php:15
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-eztoc-admin.php:130 includes/class-eztoc-admin.php:131
+#: includes/class-eztoc-admin.php:189 includes/class-eztoc-widget.php:28
+#: includes/class-eztoc-widget.php:465
+msgid "Table of Contents"
+msgstr "Содержание"
+
+#: includes/class-eztoc-admin.php:440
+msgid "Advanced:"
+msgstr "Дополнительно:"
+
+#: includes/class-eztoc-admin.php:391 includes/class-eztoc-admin.php:447
+msgid "NOTE:"
+msgstr "ВАЖНО:"
+
+#: includes/class-eztoc-admin.php:449
+msgid "Using the advanced options below will override the global advanced settings."
+msgstr "Изменение расширенных параметров ниже приведёт к изменению глобальных расширенных настроек."
+
+#: includes/class-eztoc-admin.php:458 includes/class-eztoc-option.php:842
+msgid "Headings:"
+msgstr "Заголовки:"
+
+#: includes/class-eztoc-admin.php:466 includes/class-eztoc-option.php:846
+msgid "Heading 1 (h1)"
+msgstr "Заголовок 1 (h1)"
+
+#: includes/class-eztoc-admin.php:467 includes/class-eztoc-option.php:847
+msgid "Heading 2 (h2)"
+msgstr "Заголовок 2 (h2)"
+
+#: includes/class-eztoc-admin.php:468 includes/class-eztoc-option.php:848
+msgid "Heading 3 (h3)"
+msgstr "Заголовок 3 (h3)"
+
+#: includes/class-eztoc-admin.php:469 includes/class-eztoc-option.php:849
+msgid "Heading 4 (h4)"
+msgstr "Заголовок 4 (h4)"
+
+#: includes/class-eztoc-admin.php:470 includes/class-eztoc-option.php:850
+msgid "Heading 5 (h5)"
+msgstr "Заголовок 5 (h5)"
+
+#: includes/class-eztoc-admin.php:471 includes/class-eztoc-option.php:851
+msgid "Heading 6 (h6)"
+msgstr "Заголовок 6 (h6)"
+
+#: includes/class-eztoc-admin.php:516
+msgid "Alternate Headings"
+msgstr "Альтернативные заголовки"
+
+#: includes/class-eztoc-admin.php:522
+msgid "Specify alternate table of contents header string. Add the header to be replaced and the alternate header on a single line separated with a pipe <code>|</code>. Put each additional original and alternate header on its own line."
+msgstr "Укажите альтернативную строку заголовка содержимого.  Добавьте заголовок, который надо заменить и альтернативный заголовок на одной строке, разделенные вертикальной чертой <code>|</code>. Поместите каждый дополнительный оригинальный и альтернативный заголовок на отдельной строке."
+
+#: includes/class-eztoc-admin.php:539 includes/class-eztoc-admin.php:573
+#: includes/class-eztoc-option.php:867
+msgid "Examples:"
+msgstr "Примеры:"
+
+#: includes/class-eztoc-admin.php:550 includes/class-eztoc-option.php:858
+msgid "Exclude Headings"
+msgstr "Исключить заголовки"
+
+#: includes/class-eztoc-option.php:303 includes/class-eztoc-option.php:1531
+msgid "Enable Support"
+msgstr "Включить поддержку"
+
+#: includes/class-eztoc-option.php:304
+msgid "Select the post types to enable the support for table of contents."
+msgstr "Выберите типы сообщений, чтобы включить поддержку оглавления."
+
+#: includes/class-eztoc-option.php:311 includes/class-eztoc-option.php:1214
+msgid "Auto Insert"
+msgstr "Автоматическая вставка"
+
+#: includes/class-eztoc-option.php:312 includes/inc.admin-options-page.php:363
+msgid "Select the post types which will have the table of contents automatically inserted."
+msgstr "Выберите типы сообщений, которые будут автоматически вставлены в оглавление."
+
+#: includes/class-eztoc-option.php:313 includes/inc.admin-options-page.php:364
+msgid "NOTE: The table of contents will only be automatically inserted on post types for which it has been enabled."
+msgstr "ПРИМЕЧАНИЕ: Оглавление будет автоматически вставлено только для типов сообщений, для которых оно было включено."
+
+#: includes/class-eztoc-admin.php:287 includes/class-eztoc-option.php:320
+#: includes/class-eztoc-option.php:1587
+msgid "Position"
+msgstr "Расположение"
+
+#: includes/class-eztoc-admin.php:293 includes/class-eztoc-option.php:321
+msgid "Choose where where you want to display the table of contents."
+msgstr "Выберите, где вы хотите отображать оглавление."
+
+#: includes/class-eztoc-admin.php:296 includes/class-eztoc-option.php:324
+msgid "Before first heading (default)"
+msgstr "Перед первым заголовком (по умолчанию)"
+
+#: includes/class-eztoc-admin.php:297 includes/class-eztoc-option.php:325
+msgid "After first heading"
+msgstr "После первого заголовка"
+
+#: includes/class-eztoc-admin.php:301 includes/class-eztoc-option.php:329
+msgid "Top"
+msgstr "Вверху"
+
+#: includes/class-eztoc-admin.php:302 includes/class-eztoc-option.php:330
+msgid "Bottom"
+msgstr "Внизу"
+
+#: includes/class-eztoc-option.php:359
+msgid "Show when"
+msgstr "Показывать когда"
+
+#: includes/class-eztoc-option.php:360
+msgid "or more headings are present"
+msgstr "или больше подзаголовков"
+
+#: includes/class-eztoc-option.php:376
+msgid "Display Header Label"
+msgstr "Отображать Заголовок Оглавления"
+
+#: includes/class-eztoc-option.php:377
+msgid "Show header text above the table of contents."
+msgstr "Показывать текст заголовка над оглавлением."
+
+#: includes/class-eztoc-admin.php:277 includes/class-eztoc-option.php:391
+msgid "Eg: Contents, Table of Contents, Page Contents"
+msgstr "Например: Содержание, Оглавлениение, Содержание страницы"
+
+#: includes/class-eztoc-option.php:393
+msgid "Contents"
+msgstr "Содержание"
+
+#: includes/class-eztoc-option.php:416
+msgid "Toggle View"
+msgstr "Переключать Видимость"
+
+#: includes/class-eztoc-option.php:417
+msgid "Allow the user to toggle the visibility of the table of contents."
+msgstr "Разрешить пользователю переключать видимость оглавления."
+
+#: includes/class-eztoc-admin.php:481 includes/class-eztoc-admin.php:487
+#: includes/class-eztoc-option.php:423
+msgid "Initial View"
+msgstr "Начальный вид"
+
+#: includes/class-eztoc-admin.php:488 includes/class-eztoc-option.php:424
+msgid "Initially hide the table of contents."
+msgstr "Сначала скрыть оглавление."
+
+#: includes/class-eztoc-option.php:437
+msgid "Show as Hierarchy"
+msgstr "Показывать иерархию"
+
+#: includes/class-eztoc-option.php:443
+msgid "Counter"
+msgstr "Нумерация"
+
+#: includes/class-eztoc-option.php:1804
+msgid "Decimal (default)"
+msgstr "Десятичный (по умолчанию)"
+
+#: includes/class-eztoc-option.php:1791
+msgid "Numeric"
+msgstr "Числовой"
+
+#: includes/class-eztoc-option.php:1783
+msgid "None"
+msgstr "Ничего"
+
+#: includes/class-eztoc-option.php:468
+msgid "Smooth Scroll"
+msgstr "Плавная прокрутка"
+
+#: includes/class-eztoc-option.php:500 includes/class-eztoc-option.php:1615
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/class-eztoc-option.php:504
+msgid "Fixed"
+msgstr "Фиксированная"
+
+#: includes/class-eztoc-option.php:518
+msgid "Relative"
+msgstr "Относительная"
+
+#: includes/class-eztoc-option.php:530 includes/class-eztoc-option.php:689
+msgid "Custom"
+msgstr "Выборочно"
+
+#: includes/class-eztoc-option.php:532 includes/class-eztoc-option.php:1619
+#: includes/class-eztoc-option.php:1635
+msgid "User Defined"
+msgstr "Определяемая пользователем"
+
+#: includes/class-eztoc-option.php:540 includes/class-eztoc-option.php:1625
+msgid "Custom Width"
+msgstr "Пользовательская ширина"
+
+#: includes/class-eztoc-option.php:541
+msgid "Select the User Defined option from the Width option to utilitze the custom width."
+msgstr "Выберите опцию \"Определяемая пользователем\" из параметра Ширина, чтобы реализовать пользовательскую ширину."
+
+#: includes/class-eztoc-admin.php:427 includes/class-eztoc-option.php:550
+msgid "None (Default)"
+msgstr "Нет (по умолчанию)"
+
+#: includes/class-eztoc-admin.php:428 includes/class-eztoc-option.php:551
+msgid "Left"
+msgstr "Слева"
+
+#: includes/class-eztoc-admin.php:429 includes/class-eztoc-option.php:552
+msgid "Right"
+msgstr "Справа"
+
+#: includes/class-eztoc-option.php:646
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: includes/class-eztoc-option.php:680
+msgid "Theme"
+msgstr "Тема"
+
+#: includes/class-eztoc-option.php:681
+msgid "The theme is only applied to the table of contents which is auto inserted into the post. The Table of Contents widget will inherit the theme widget styles."
+msgstr "Тема применяется только к оглавлению, которое автоматически добавляется в сообщение. Виджет «Содержание» наследует стили виджета темы."
+
+#: includes/class-eztoc-option.php:684
+msgid "Grey"
+msgstr "Серая"
+
+#: includes/class-eztoc-option.php:685
+msgid "Light Blue"
+msgstr "Светло-синяя"
+
+#: includes/class-eztoc-option.php:686
+msgid "White"
+msgstr "Белая"
+
+#: includes/class-eztoc-option.php:687
+msgid "Black"
+msgstr "Черная"
+
+#: includes/class-eztoc-option.php:688
+msgid "Transparent"
+msgstr "Прозрачная"
+
+#: includes/class-eztoc-option.php:695
+msgid "Custom Theme"
+msgstr "Пользовательская тема"
+
+#: includes/class-eztoc-option.php:696
+msgid "For the following settings to apply, select the Custom Theme option."
+msgstr "Чтобы применить следующие параметры, выберите параметр \"Пользовательская тема\"."
+
+#: includes/class-eztoc-option.php:701
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: includes/class-eztoc-option.php:707
+msgid "Border Color"
+msgstr "Цвет бордюра"
+
+#: includes/class-eztoc-option.php:713
+msgid "Title Color"
+msgstr "Цвет заголовка"
+
+#: includes/class-eztoc-option.php:719
+msgid "Link Color"
+msgstr "Цвет ссылок"
+
+#: includes/class-eztoc-option.php:725
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: includes/class-eztoc-option.php:731
+msgid "Link Visited Color"
+msgstr "Цвет ссылки после нажатия"
+
+#: includes/class-eztoc-option.php:754
+msgid "Lowercase"
+msgstr "Строчные буквы"
+
+#: includes/class-eztoc-option.php:755
+msgid "Ensure anchors are in lowercase."
+msgstr "Убедитесь, что якоря находятся в нижнем регистре."
+
+#: includes/class-eztoc-option.php:761
+msgid "Hyphenate"
+msgstr "Использовать дефисы"
+
+#: includes/class-eztoc-option.php:762
+msgid "Use - rather than _ in anchors."
+msgstr "Использовать - вместо _ в якорях."
+
+#: includes/class-eztoc-option.php:768 includes/class-eztoc-option.php:1540
+msgid "Homepage"
+msgstr "Главная страница"
+
+#. translators: %s: URL to the documentation
+#: includes/class-eztoc-option.php:770
+msgid "Show the table of contents for qualifying items on the homepage."
+msgstr "Показать оглавление для квалифицирующих элементов на главной странице."
+
+#: includes/class-eztoc-option.php:828
+msgid "CSS"
+msgstr "CSS"
+
+#: includes/class-eztoc-option.php:829
+msgid "Prevent the loading the core CSS styles. When selected, the appearance options from above will be ignored."
+msgstr "Предотвратить загрузку стилей CSS этого плагина. Если включить этот пункт, параметры внешнего вида установленные выше будут проигнорироваться."
+
+#: includes/class-eztoc-option.php:887
+msgid "Smooth Scroll Offset"
+msgstr "Смещение плавной прокрутки"
+
+#: includes/class-eztoc-option.php:903
+msgid "Limit Path"
+msgstr "Ограничить путь"
+
+#: includes/class-eztoc-option.php:904
+msgid "Restrict generation of the table of contents to pages that match the required path. This path is from the root of your site and always begins with a forward slash."
+msgstr "Ограничьте создание оглавления на страницы, соответствующие требуемому пути. Этот путь происходит от корня вашего сайта и всегда начинается с косой черты."
+
+#: includes/class-eztoc-option.php:905
+msgid "Eg: /wiki/, /corporate/annual-reports/"
+msgstr "Например: /wiki/, /corporate/annual-reports/"
+
+#: includes/class-eztoc-option.php:920
+msgid "Default Anchor Prefix"
+msgstr "Префикс якоря по умолчанию"
+
+#: includes/class-eztoc-option.php:922
+msgid "This option normally applies to content written in character sets other than ASCII."
+msgstr "Этот параметр обычно применяется к контенту, записанному в наборах символов, отличных от ASCII."
+
+#: includes/class-eztoc-option.php:888
+msgid "If you have a consistent menu across the top of your site, you can adjust the top offset to stop the headings from appearing underneath the top menu. A setting of 30 accommodates the WordPress admin bar. This setting only has an effect after you have enabled Smooth Scroll option."
+msgstr "Если у вас есть согласованное меню в верхней части вашего сайта, вы можете настроить верхнее смещение, чтобы остановить заголовки под верхним меню. Настройка 30 вмещает панель администратора WordPress. Этот параметр действует только после того, как вы включили опцию \"Плавная прокрутка\"."
+
+#: includes/class-eztoc-option.php:921
+msgid "Anchor targets are restricted to alphanumeric characters as per HTML specification (see readme for more detail). The default anchor prefix will be used when no characters qualify. When left blank, a number will be used instead."
+msgstr "Якорные цели ограничены буквенно-цифровыми символами в соответствии со спецификацией HTML (подробнее см. Readme). Префикс якоря по умолчанию будет использоваться, если не будет присвоено никаких символов. Если оставить пустым, вместо него будет использоваться номер."
+
+#: includes/class-eztoc-option.php:923
+msgid "Eg: i, toc_index, index, _"
+msgstr "Например: i, toc_index, index, _"
+
+#: includes/class-eztoc-option.php:936
+msgid "Widget Affix Selector"
+msgstr "Выбрать фиксированное положение"
+
+#: includes/class-eztoc-option.php:937
+msgid "To enable the option to affix or pin the Table of Contents widget enter the theme's sidebar class or id."
+msgstr "Чтобы включить параметр для прикрепления или подключения виджета оглавления, введите класс боковой панели темы или идентификатор."
+
+#: includes/class-eztoc-option.php:938
+msgid "Since every theme is different, this can not be determined automatically. If you are unsure how to find the sidebar's class or id, please ask the theme's support persons."
+msgstr "Поскольку каждая тема отличается, это невозможно определить автоматически. Если вы не знаете, как найти класс или идентификатор боковой панели, обратитесь в поддержку темы."
+
+#: includes/class-eztoc-option.php:939
+msgid "Eg: .widget-area or #sidebar"
+msgstr "Например: .widget-area или #sidebar"
+
+#. translators: %s: Setting ID
+#: includes/class-eztoc-option.php:2175
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "Функция обратного вызова, используемая для <strong>%s </strong> настройка отсутствует."
+
+#: includes/class-eztoc-widget.php:23 includes/class-eztoc-widgetsticky.php:26
+msgid "Display the table of contents."
+msgstr "Отобразить оглавление."
+
+#: includes/class-eztoc-widget.php:488
+#: includes/class-eztoc-widgetsticky.php:635
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/class-eztoc-widget.php:570
+#: includes/class-eztoc-widgetsticky.php:711
+msgid "Active Section Highlight Color:"
+msgstr "Цвет подсветки активного раздела:"
+
+#: includes/class-eztoc-widget.php:600
+msgid "Affix or pin the widget."
+msgstr "Прикрепить или закрепить виджет."
+
+#: includes/class-eztoc-widget.php:604
+msgid "If you choose to affix the widget, do not add any other widgets on the sidebar. Also, make sure you have only one instance Table of Contents widget on the page."
+msgstr "Если вы решите прикреплять виджет, не добавляйте никаких других виджетов на боковой панели. Кроме того, убедитесь, что на странице есть только один виджет оглавления."
+
+#: includes/inc.admin-options-page.php:82
+#: includes/inc.admin-options-page.php:90
+msgid "General"
+msgstr "Основные"
+
+#: includes/class-eztoc-widget.php:498
+#: includes/class-eztoc-widgetsticky.php:642
+#: includes/inc.admin-options-page.php:82
+#: includes/inc.admin-options-page.php:108
+msgid "Appearance"
+msgstr "Внешний вид"
+
+#: includes/inc.admin-options-page.php:82
+#: includes/inc.admin-options-page.php:127
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: includes/inc.admin-options-page.php:270
+msgid "Save Changes"
+msgstr "Сохранить настройки"
+
+#. Plugin Name of the plugin
+#: easy-table-of-contents.php includes/inc.functions.php:143
+msgid "Easy Table of Contents"
+msgstr "Easy Table of Contents"
+
+#. Description of the plugin
+#: easy-table-of-contents.php
+msgid "Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content."
+msgstr "Добавляет удобный и полностью автоматический способ создания и отображения оглавления, созданного из содержимого страницы."
+
+#: includes/class-eztoc-admin.php:259
+msgid "Insert table of contents."
+msgstr "Вставить оглавление."
+
+#: includes/class-eztoc-admin.php:248
+msgid "Disable the automatic insertion of the table of contents."
+msgstr "Отключить автоматическую вставку оглавления."
+
+#: includes/class-eztoc-admin.php:464 includes/class-eztoc-option.php:843
+msgid "Select the heading to consider when generating the table of contents. Deselecting a heading will exclude it."
+msgstr "Выберите заголовки, которые следует учитывать при создании оглавления. Отмена выбора заголовка исключает его."
+
+#: includes/class-eztoc-admin.php:556
+msgid "Specify headings to be excluded from appearing in the table of contents. Separate multiple headings with a pipe <code>|</code>. Use an asterisk <code>*</code> as a wildcard to match other text."
+msgstr "Укажите заголовки, которые должны быть исключены из оглавления. Отделите несколько заголовков вертикальной чертой <code>|</code>. Используйте звездочку <code>*</code> в качестве подстановочного знака для соответствия другому тексту."
+
+#: includes/class-eztoc-admin.php:271 includes/class-eztoc-option.php:390
+msgid "Header Label"
+msgstr "Этикетка заголовка"
